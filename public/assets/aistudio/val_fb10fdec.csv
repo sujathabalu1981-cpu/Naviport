@@ -1,0 +1,1045 @@
+week_start,year,port,country,region,throughput_teu_mn,vessels_at_anchor,avg_wait_days,congestion_index,port_utilization_pct,berth_delay_hrs,year_num,month,week_of_year,congestion_class
+2023-01-16,2023,Busan,SouthKorea,Asia,22,8,18.0,1.0,0.825,224.0,2023,1,3,Low
+2023-01-16,2023,Los Angeles,USA,NorthAmerica,12,8,12.3,1.23,0.954,141.3,2023,1,3,Low
+2023-01-16,2023,Long Beach,USA,NorthAmerica,11,13,16.5,1.84,0.99,200.1,2023,1,3,Medium
+2023-01-16,2023,Hong Kong,China,Asia,18,8,15.1,1.08,0.854,170.7,2023,1,3,Low
+2023-01-16,2023,Singapore,Singapore,Asia,40,14,59.2,1.56,0.99,704.2,2023,1,3,Medium
+2023-01-16,2023,Rotterdam,Netherlands,Europe,14,6,21.7,1.8,0.99,259.6,2023,1,3,Medium
+2023-01-23,2023,Hong Kong,China,Asia,18,3,21.3,1.52,0.99,255.7,2023,1,4,Medium
+2023-01-23,2023,Shenzhen,China,Asia,28,15,43.0,1.66,0.99,520.5,2023,1,4,Medium
+2023-01-23,2023,Tanjung Pelepas,Malaysia,Asia,10,13,18.0,2.0,0.99,212.6,2023,1,4,Medium
+2023-01-23,2023,Guangzhou,China,Asia,22,31,37.4,1.87,0.99,445.1,2023,1,4,Medium
+2023-01-23,2023,Singapore,Singapore,Asia,40,4,55.1,1.45,0.99,663.3,2023,1,4,Medium
+2023-01-23,2023,Laem Chabang,Thailand,Asia,8,3,7.1,1.02,0.787,98.8,2023,1,4,Low
+2023-01-23,2023,Rotterdam,Netherlands,Europe,14,12,22.4,1.87,0.99,261.8,2023,1,4,Medium
+2023-01-23,2023,Long Beach,USA,NorthAmerica,11,4,7.6,0.85,0.629,90.0,2023,1,4,Low
+2023-01-23,2023,Qingdao,China,Asia,24,4,25.8,1.17,0.858,314.8,2023,1,4,Low
+2023-01-23,2023,Busan,SouthKorea,Asia,22,7,19.9,1.11,0.823,233.6,2023,1,4,Low
+2023-01-23,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,2,15.3,1.09,0.827,177.6,2023,1,4,Low
+2023-01-23,2023,Felixstowe,UK,Europe,4,4,6.4,2.15,0.99,89.6,2023,1,4,Medium
+2023-01-23,2023,Hamburg,Germany,Europe,9,4,6.6,0.83,0.584,90.5,2023,1,4,Low
+2023-01-23,2023,New York,USA,NorthAmerica,7,4,4.4,0.73,0.506,43.1,2023,1,4,Low
+2023-01-23,2023,Shanghai,China,Asia,95,32,58.8,1.31,0.99,708.6,2023,1,4,Medium
+2023-01-23,2023,Colombo,SriLanka,Asia,7,6,10.1,1.68,0.99,129.7,2023,1,4,Medium
+2023-01-23,2023,Tanjung Priok,Indonesia,Asia,7,3,6.2,1.04,0.826,64.6,2023,1,4,Low
+2023-01-23,2023,Antwerp,Belgium,Europe,12,12,16.3,1.48,0.99,204.9,2023,1,4,Medium
+2023-01-23,2023,Los Angeles,USA,NorthAmerica,12,7,15.7,1.57,0.99,184.6,2023,1,4,Medium
+2023-01-23,2023,Ningbo,China,Asia,30,4,46.3,1.65,0.99,559.6,2023,1,4,Medium
+2023-01-30,2023,Felixstowe,UK,Europe,4,4,4.6,1.53,0.99,62.5,2023,1,5,Medium
+2023-01-30,2023,Singapore,Singapore,Asia,40,0,41.9,1.1,0.882,519.8,2023,1,5,Low
+2023-01-30,2023,Guangzhou,China,Asia,22,6,26.2,1.31,0.99,314.7,2023,1,5,Medium
+2023-01-30,2023,New York,USA,NorthAmerica,7,5,8.7,1.45,0.99,111.9,2023,1,5,Medium
+2023-01-30,2023,Laem Chabang,Thailand,Asia,8,3,12.5,1.79,0.99,168.5,2023,1,5,Medium
+2023-01-30,2023,Tanjung Pelepas,Malaysia,Asia,10,8,13.8,1.53,0.99,152.4,2023,1,5,Medium
+2023-01-30,2023,Long Beach,USA,NorthAmerica,11,4,8.0,0.89,0.623,96.8,2023,1,5,Low
+2023-01-30,2023,Los Angeles,USA,NorthAmerica,12,9,10.0,1.0,0.84,126.8,2023,1,5,Low
+2023-01-30,2023,Tanjung Priok,Indonesia,Asia,7,2,8.5,1.42,0.99,108.3,2023,1,5,Medium
+2023-01-30,2023,Hamburg,Germany,Europe,9,4,11.4,1.42,0.99,139.4,2023,1,5,Medium
+2023-01-30,2023,Busan,SouthKorea,Asia,22,7,17.1,0.95,0.767,199.2,2023,1,5,Low
+2023-01-30,2023,Shanghai,China,Asia,95,57,72.8,1.62,0.99,880.0,2023,1,5,Medium
+2023-01-30,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,6,18.9,1.35,0.99,227.3,2023,1,5,Medium
+2023-01-30,2023,Shenzhen,China,Asia,28,3,28.6,1.1,0.778,344.0,2023,1,5,Low
+2023-01-30,2023,Ningbo,China,Asia,30,32,38.2,1.36,0.99,477.1,2023,1,5,Medium
+2023-01-30,2023,Qingdao,China,Asia,24,25,32.7,1.49,0.99,381.3,2023,1,5,Medium
+2023-01-30,2023,Antwerp,Belgium,Europe,12,17,26.6,2.42,0.99,323.0,2023,1,5,Medium
+2023-01-30,2023,Colombo,SriLanka,Asia,7,1,9.3,1.55,0.99,112.2,2023,1,5,Medium
+2023-01-30,2023,Hong Kong,China,Asia,18,8,15.7,1.12,0.88,182.4,2023,1,5,Low
+2023-01-30,2023,Rotterdam,Netherlands,Europe,14,6,25.1,2.09,0.99,306.2,2023,1,5,Medium
+2023-02-06,2023,Tanjung Priok,Indonesia,Asia,7,5,7.8,1.29,0.99,100.3,2023,2,6,Medium
+2023-02-06,2023,Singapore,Singapore,Asia,40,31,72.6,1.91,0.99,878.3,2023,2,6,Medium
+2023-02-06,2023,Qingdao,China,Asia,24,20,16.5,0.75,0.606,199.0,2023,2,6,Low
+2023-02-06,2023,Guangzhou,China,Asia,22,26,41.2,2.06,0.99,476.9,2023,2,6,Medium
+2023-02-06,2023,Antwerp,Belgium,Europe,12,10,16.7,1.52,0.99,186.9,2023,2,6,Medium
+2023-02-06,2023,New York,USA,NorthAmerica,7,2,6.6,1.11,0.851,75.3,2023,2,6,Low
+2023-02-06,2023,Long Beach,USA,NorthAmerica,11,2,8.9,0.99,0.821,112.0,2023,2,6,Low
+2023-02-06,2023,Laem Chabang,Thailand,Asia,8,4,8.1,1.15,0.921,92.1,2023,2,6,Low
+2023-02-06,2023,Tanjung Pelepas,Malaysia,Asia,10,15,20.6,2.29,0.99,248.7,2023,2,6,Medium
+2023-02-06,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,21,24.4,1.74,0.99,294.0,2023,2,6,Medium
+2023-02-06,2023,Colombo,SriLanka,Asia,7,6,7.4,1.23,0.953,84.3,2023,2,6,Low
+2023-02-06,2023,Hamburg,Germany,Europe,9,7,15.0,1.88,0.99,178.2,2023,2,6,Medium
+2023-02-06,2023,Hong Kong,China,Asia,18,6,21.8,1.56,0.99,260.5,2023,2,6,Medium
+2023-02-06,2023,Ningbo,China,Asia,30,0,25.7,0.92,0.714,299.7,2023,2,6,Low
+2023-02-06,2023,Felixstowe,UK,Europe,4,1,4.6,1.54,0.99,52.3,2023,2,6,Medium
+2023-02-06,2023,Shenzhen,China,Asia,28,7,37.8,1.45,0.99,455.0,2023,2,6,Medium
+2023-02-06,2023,Shanghai,China,Asia,95,0,56.4,1.25,0.893,669.0,2023,2,6,Medium
+2023-02-06,2023,Rotterdam,Netherlands,Europe,14,8,10.2,0.85,0.687,129.4,2023,2,6,Low
+2023-02-06,2023,Los Angeles,USA,NorthAmerica,12,5,12.3,1.23,0.99,144.2,2023,2,6,Low
+2023-02-06,2023,Busan,SouthKorea,Asia,22,10,23.8,1.32,0.99,280.1,2023,2,6,Medium
+2023-02-13,2023,Shenzhen,China,Asia,28,29,49.2,1.89,0.99,593.8,2023,2,7,Medium
+2023-02-13,2023,Singapore,Singapore,Asia,40,28,67.9,1.79,0.99,817.3,2023,2,7,Medium
+2023-02-13,2023,Los Angeles,USA,NorthAmerica,12,11,11.5,1.15,0.897,152.4,2023,2,7,Low
+2023-02-13,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,11,18.1,1.29,0.99,227.2,2023,2,7,Medium
+2023-02-13,2023,Antwerp,Belgium,Europe,12,20,21.7,1.97,0.99,264.9,2023,2,7,Medium
+2023-02-13,2023,Hamburg,Germany,Europe,9,10,11.5,1.44,0.99,143.6,2023,2,7,Medium
+2023-02-13,2023,New York,USA,NorthAmerica,7,2,5.0,0.83,0.645,68.6,2023,2,7,Low
+2023-02-13,2023,Laem Chabang,Thailand,Asia,8,5,14.7,2.1,0.99,172.0,2023,2,7,Medium
+2023-02-13,2023,Ningbo,China,Asia,30,18,37.4,1.34,0.99,442.4,2023,2,7,Medium
+2023-02-13,2023,Rotterdam,Netherlands,Europe,14,8,18.6,1.55,0.99,222.4,2023,2,7,Medium
+2023-02-13,2023,Busan,SouthKorea,Asia,22,6,21.0,1.17,0.866,256.7,2023,2,7,Low
+2023-02-13,2023,Qingdao,China,Asia,24,4,31.8,1.45,0.99,396.0,2023,2,7,Medium
+2023-02-13,2023,Tanjung Priok,Indonesia,Asia,7,6,9.0,1.49,0.99,94.2,2023,2,7,Medium
+2023-02-13,2023,Long Beach,USA,NorthAmerica,11,14,16.2,1.8,0.99,206.3,2023,2,7,Medium
+2023-02-13,2023,Tanjung Pelepas,Malaysia,Asia,10,9,14.2,1.58,0.99,167.5,2023,2,7,Medium
+2023-02-13,2023,Felixstowe,UK,Europe,4,1,4.3,1.44,0.99,55.1,2023,2,7,Medium
+2023-02-13,2023,Shanghai,China,Asia,95,36,69.4,1.54,0.99,848.1,2023,2,7,Medium
+2023-02-13,2023,Hong Kong,China,Asia,18,3,14.1,1.01,0.832,165.9,2023,2,7,Low
+2023-02-13,2023,Colombo,SriLanka,Asia,7,4,10.7,1.79,0.99,119.7,2023,2,7,Medium
+2023-02-13,2023,Guangzhou,China,Asia,22,8,19.9,1.0,0.836,238.1,2023,2,7,Low
+2023-02-20,2023,Felixstowe,UK,Europe,4,2,4.3,1.42,0.99,48.9,2023,2,8,Medium
+2023-02-20,2023,Ningbo,China,Asia,30,17,42.1,1.5,0.99,503.9,2023,2,8,Medium
+2023-02-20,2023,Hong Kong,China,Asia,18,9,13.4,0.96,0.732,166.5,2023,2,8,Low
+2023-02-20,2023,Tanjung Priok,Indonesia,Asia,7,2,6.6,1.11,0.86,82.6,2023,2,8,Low
+2023-02-20,2023,New York,USA,NorthAmerica,7,1,5.9,0.98,0.812,72.8,2023,2,8,Low
+2023-02-20,2023,Rotterdam,Netherlands,Europe,14,7,12.7,1.06,0.857,164.1,2023,2,8,Low
+2023-02-20,2023,Qingdao,China,Asia,24,10,35.0,1.59,0.99,416.0,2023,2,8,Medium
+2023-02-20,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,5,11.8,0.84,0.67,141.2,2023,2,8,Low
+2023-02-20,2023,Tanjung Pelepas,Malaysia,Asia,10,4,10.8,1.2,0.971,115.8,2023,2,8,Low
+2023-02-20,2023,Hamburg,Germany,Europe,9,0,8.7,1.08,0.853,106.9,2023,2,8,Low
+2023-02-20,2023,Laem Chabang,Thailand,Asia,8,3,11.1,1.59,0.99,138.0,2023,2,8,Medium
+2023-02-20,2023,Long Beach,USA,NorthAmerica,11,5,8.4,0.94,0.71,93.6,2023,2,8,Low
+2023-02-20,2023,Shanghai,China,Asia,95,21,44.2,0.98,0.779,524.9,2023,2,8,Low
+2023-02-20,2023,Shenzhen,China,Asia,28,15,41.5,1.6,0.99,498.8,2023,2,8,Medium
+2023-02-20,2023,Busan,SouthKorea,Asia,22,12,23.5,1.31,0.99,292.5,2023,2,8,Medium
+2023-02-20,2023,Antwerp,Belgium,Europe,12,7,14.0,1.27,0.99,172.8,2023,2,8,Medium
+2023-02-20,2023,Guangzhou,China,Asia,22,8,18.7,0.94,0.682,213.3,2023,2,8,Low
+2023-02-20,2023,Los Angeles,USA,NorthAmerica,12,5,9.5,0.95,0.825,114.4,2023,2,8,Low
+2023-02-20,2023,Singapore,Singapore,Asia,40,27,58.9,1.55,0.99,718.0,2023,2,8,Medium
+2023-02-20,2023,Colombo,SriLanka,Asia,7,2,6.6,1.1,0.883,71.0,2023,2,8,Low
+2023-02-27,2023,Hamburg,Germany,Europe,9,1,10.5,1.31,0.99,128.2,2023,2,9,Medium
+2023-02-27,2023,Shenzhen,China,Asia,28,21,27.3,1.05,0.804,341.7,2023,2,9,Low
+2023-02-27,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,2,14.9,1.07,0.865,173.3,2023,2,9,Low
+2023-02-27,2023,New York,USA,NorthAmerica,7,5,9.3,1.55,0.99,126.1,2023,2,9,Medium
+2023-02-27,2023,Hong Kong,China,Asia,18,13,23.9,1.71,0.99,272.7,2023,2,9,Medium
+2023-02-27,2023,Busan,SouthKorea,Asia,22,10,16.1,0.89,0.707,189.5,2023,2,9,Low
+2023-02-27,2023,Singapore,Singapore,Asia,40,42,69.4,1.83,0.99,829.8,2023,2,9,Medium
+2023-02-27,2023,Felixstowe,UK,Europe,4,1,2.7,0.89,0.654,32.8,2023,2,9,Low
+2023-02-27,2023,Colombo,SriLanka,Asia,7,2,5.1,0.85,0.636,61.0,2023,2,9,Low
+2023-02-27,2023,Antwerp,Belgium,Europe,12,11,17.8,1.62,0.99,219.7,2023,2,9,Medium
+2023-02-27,2023,Qingdao,China,Asia,24,27,27.4,1.25,0.966,319.8,2023,2,9,Medium
+2023-02-27,2023,Shanghai,China,Asia,95,6,61.2,1.36,0.99,728.7,2023,2,9,Medium
+2023-02-27,2023,Los Angeles,USA,NorthAmerica,12,2,12.6,1.26,0.99,145.5,2023,2,9,Medium
+2023-02-27,2023,Laem Chabang,Thailand,Asia,8,2,7.0,1.0,0.792,89.4,2023,2,9,Low
+2023-02-27,2023,Rotterdam,Netherlands,Europe,14,12,17.8,1.48,0.99,209.5,2023,2,9,Medium
+2023-02-27,2023,Tanjung Pelepas,Malaysia,Asia,10,2,8.7,0.96,0.758,110.7,2023,2,9,Low
+2023-02-27,2023,Long Beach,USA,NorthAmerica,11,10,14.2,1.57,0.99,171.7,2023,2,9,Medium
+2023-02-27,2023,Ningbo,China,Asia,30,2,29.7,1.06,0.82,346.2,2023,2,9,Low
+2023-02-27,2023,Guangzhou,China,Asia,22,18,44.5,2.22,0.99,533.2,2023,2,9,Medium
+2023-02-27,2023,Tanjung Priok,Indonesia,Asia,7,6,6.6,1.1,0.856,79.4,2023,2,9,Low
+2023-03-06,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,8,12.2,0.87,0.697,145.3,2023,3,10,Low
+2023-03-06,2023,New York,USA,NorthAmerica,7,2,8.3,1.38,0.99,94.9,2023,3,10,Medium
+2023-03-06,2023,Antwerp,Belgium,Europe,12,8,11.5,1.04,0.889,137.7,2023,3,10,Low
+2023-03-06,2023,Rotterdam,Netherlands,Europe,14,7,18.2,1.52,0.99,210.3,2023,3,10,Medium
+2023-03-06,2023,Shanghai,China,Asia,95,49,100.9,2.24,0.99,1210.8,2023,3,10,Medium
+2023-03-06,2023,Hong Kong,China,Asia,18,6,15.4,1.1,0.949,199.2,2023,3,10,Low
+2023-03-06,2023,Shenzhen,China,Asia,28,11,20.6,0.79,0.676,240.5,2023,3,10,Low
+2023-03-06,2023,Singapore,Singapore,Asia,40,48,77.0,2.03,0.99,914.0,2023,3,10,Medium
+2023-03-06,2023,Guangzhou,China,Asia,22,7,25.4,1.27,0.976,306.9,2023,3,10,Medium
+2023-03-06,2023,Busan,SouthKorea,Asia,22,1,26.4,1.47,0.99,320.6,2023,3,10,Medium
+2023-03-06,2023,Los Angeles,USA,NorthAmerica,12,2,13.2,1.32,0.99,167.4,2023,3,10,Medium
+2023-03-06,2023,Hamburg,Germany,Europe,9,1,8.6,1.08,0.833,109.0,2023,3,10,Low
+2023-03-06,2023,Ningbo,China,Asia,30,17,27.0,0.96,0.68,334.9,2023,3,10,Low
+2023-03-06,2023,Colombo,SriLanka,Asia,7,5,11.2,1.86,0.99,133.4,2023,3,10,Medium
+2023-03-06,2023,Laem Chabang,Thailand,Asia,8,4,8.3,1.18,0.909,104.9,2023,3,10,Low
+2023-03-06,2023,Tanjung Priok,Indonesia,Asia,7,1,6.8,1.14,0.885,82.4,2023,3,10,Low
+2023-03-06,2023,Tanjung Pelepas,Malaysia,Asia,10,7,18.3,2.03,0.99,224.9,2023,3,10,Medium
+2023-03-06,2023,Qingdao,China,Asia,24,16,29.3,1.33,0.986,354.4,2023,3,10,Medium
+2023-03-06,2023,Long Beach,USA,NorthAmerica,11,7,12.6,1.4,0.99,155.0,2023,3,10,Medium
+2023-03-06,2023,Felixstowe,UK,Europe,4,0,3.4,1.13,0.971,38.8,2023,3,10,Low
+2023-03-13,2023,Colombo,SriLanka,Asia,7,3,10.4,1.74,0.99,117.5,2023,3,11,Medium
+2023-03-13,2023,Busan,SouthKorea,Asia,22,6,19.6,1.09,0.78,232.3,2023,3,11,Low
+2023-03-13,2023,Rotterdam,Netherlands,Europe,14,8,13.0,1.08,0.88,148.0,2023,3,11,Low
+2023-03-13,2023,Qingdao,China,Asia,24,21,40.2,1.83,0.99,477.9,2023,3,11,Medium
+2023-03-13,2023,Long Beach,USA,NorthAmerica,11,9,12.8,1.42,0.99,152.4,2023,3,11,Medium
+2023-03-13,2023,Tanjung Pelepas,Malaysia,Asia,10,6,13.9,1.55,0.99,158.4,2023,3,11,Medium
+2023-03-13,2023,Singapore,Singapore,Asia,40,26,43.2,1.14,0.902,533.7,2023,3,11,Low
+2023-03-13,2023,Guangzhou,China,Asia,22,28,38.5,1.92,0.99,469.8,2023,3,11,Medium
+2023-03-13,2023,Los Angeles,USA,NorthAmerica,12,2,13.4,1.34,0.99,157.8,2023,3,11,Medium
+2023-03-13,2023,Shenzhen,China,Asia,28,13,33.7,1.3,0.984,406.7,2023,3,11,Medium
+2023-03-13,2023,Laem Chabang,Thailand,Asia,8,4,10.8,1.54,0.99,125.8,2023,3,11,Medium
+2023-03-13,2023,Felixstowe,UK,Europe,4,2,5.8,1.94,0.99,60.6,2023,3,11,Medium
+2023-03-13,2023,Tanjung Priok,Indonesia,Asia,7,7,7.9,1.32,0.99,94.4,2023,3,11,Medium
+2023-03-13,2023,Shanghai,China,Asia,95,21,60.3,1.34,0.99,725.9,2023,3,11,Medium
+2023-03-13,2023,Ningbo,China,Asia,30,19,39.3,1.4,0.99,478.1,2023,3,11,Medium
+2023-03-13,2023,Hong Kong,China,Asia,18,7,26.1,1.86,0.99,306.4,2023,3,11,Medium
+2023-03-13,2023,Hamburg,Germany,Europe,9,3,12.0,1.5,0.99,150.9,2023,3,11,Medium
+2023-03-13,2023,New York,USA,NorthAmerica,7,4,7.9,1.31,0.99,90.5,2023,3,11,Medium
+2023-03-13,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,7,15.0,1.07,0.886,167.5,2023,3,11,Low
+2023-03-13,2023,Antwerp,Belgium,Europe,12,5,21.6,1.96,0.99,254.1,2023,3,11,Medium
+2023-03-20,2023,Long Beach,USA,NorthAmerica,11,4,8.6,0.96,0.811,99.4,2023,3,12,Low
+2023-03-20,2023,Felixstowe,UK,Europe,4,0,4.2,1.41,0.99,48.8,2023,3,12,Medium
+2023-03-20,2023,Hamburg,Germany,Europe,9,4,8.1,1.01,0.839,86.5,2023,3,12,Low
+2023-03-20,2023,Ningbo,China,Asia,30,12,37.8,1.35,0.99,439.8,2023,3,12,Medium
+2023-03-20,2023,Shenzhen,China,Asia,28,11,25.4,0.98,0.782,302.9,2023,3,12,Low
+2023-03-20,2023,New York,USA,NorthAmerica,7,3,9.1,1.52,0.99,101.6,2023,3,12,Medium
+2023-03-20,2023,Qingdao,China,Asia,24,9,19.6,0.89,0.708,228.2,2023,3,12,Low
+2023-03-20,2023,Tanjung Priok,Indonesia,Asia,7,4,9.9,1.66,0.99,108.9,2023,3,12,Medium
+2023-03-20,2023,Busan,SouthKorea,Asia,22,3,21.5,1.2,0.964,268.6,2023,3,12,Low
+2023-03-20,2023,Hong Kong,China,Asia,18,13,15.5,1.11,0.856,185.5,2023,3,12,Low
+2023-03-20,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,4,12.8,0.91,0.711,149.4,2023,3,12,Low
+2023-03-20,2023,Colombo,SriLanka,Asia,7,2,6.6,1.1,0.806,80.6,2023,3,12,Low
+2023-03-20,2023,Laem Chabang,Thailand,Asia,8,6,10.6,1.51,0.99,124.4,2023,3,12,Medium
+2023-03-20,2023,Los Angeles,USA,NorthAmerica,12,0,10.2,1.02,0.773,111.2,2023,3,12,Low
+2023-03-20,2023,Singapore,Singapore,Asia,40,31,43.4,1.14,0.937,526.5,2023,3,12,Low
+2023-03-20,2023,Guangzhou,China,Asia,22,10,30.4,1.52,0.99,369.4,2023,3,12,Medium
+2023-03-20,2023,Tanjung Pelepas,Malaysia,Asia,10,5,9.2,1.02,0.791,106.5,2023,3,12,Low
+2023-03-20,2023,Antwerp,Belgium,Europe,12,19,21.0,1.91,0.99,260.9,2023,3,12,Medium
+2023-03-20,2023,Shanghai,China,Asia,95,23,49.9,1.11,0.841,617.5,2023,3,12,Low
+2023-03-20,2023,Rotterdam,Netherlands,Europe,14,7,19.2,1.6,0.99,241.2,2023,3,12,Medium
+2023-03-27,2023,Hong Kong,China,Asia,18,1,22.9,1.64,0.99,266.4,2023,3,13,Medium
+2023-03-27,2023,Singapore,Singapore,Asia,40,34,40.3,1.06,0.877,488.9,2023,3,13,Low
+2023-03-27,2023,Felixstowe,UK,Europe,4,3,5.0,1.66,0.99,63.9,2023,3,13,Medium
+2023-03-27,2023,Hamburg,Germany,Europe,9,13,14.4,1.8,0.99,170.2,2023,3,13,Medium
+2023-03-27,2023,Ningbo,China,Asia,30,5,25.1,0.9,0.714,301.3,2023,3,13,Low
+2023-03-27,2023,Los Angeles,USA,NorthAmerica,12,7,11.6,1.16,0.886,141.5,2023,3,13,Low
+2023-03-27,2023,New York,USA,NorthAmerica,7,6,6.3,1.05,0.761,75.7,2023,3,13,Low
+2023-03-27,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,17,22.2,1.59,0.99,270.8,2023,3,13,Medium
+2023-03-27,2023,Long Beach,USA,NorthAmerica,11,8,12.5,1.39,0.99,146.3,2023,3,13,Medium
+2023-03-27,2023,Guangzhou,China,Asia,22,16,27.3,1.37,0.99,343.7,2023,3,13,Medium
+2023-03-27,2023,Shanghai,China,Asia,95,52,59.4,1.32,0.99,714.8,2023,3,13,Medium
+2023-03-27,2023,Shenzhen,China,Asia,28,20,27.3,1.05,0.849,319.7,2023,3,13,Low
+2023-03-27,2023,Laem Chabang,Thailand,Asia,8,3,9.1,1.3,0.975,105.8,2023,3,13,Medium
+2023-03-27,2023,Qingdao,China,Asia,24,33,48.2,2.19,0.99,564.6,2023,3,13,Medium
+2023-03-27,2023,Colombo,SriLanka,Asia,7,4,7.5,1.25,0.924,95.7,2023,3,13,Medium
+2023-03-27,2023,Busan,SouthKorea,Asia,22,10,24.1,1.34,0.99,289.4,2023,3,13,Medium
+2023-03-27,2023,Tanjung Pelepas,Malaysia,Asia,10,6,14.3,1.59,0.99,170.0,2023,3,13,Medium
+2023-03-27,2023,Rotterdam,Netherlands,Europe,14,13,19.8,1.65,0.99,232.2,2023,3,13,Medium
+2023-03-27,2023,Tanjung Priok,Indonesia,Asia,7,3,5.9,0.98,0.757,64.3,2023,3,13,Low
+2023-03-27,2023,Antwerp,Belgium,Europe,12,11,22.4,2.04,0.99,275.1,2023,3,13,Medium
+2023-04-03,2023,Hamburg,Germany,Europe,9,6,14.0,1.75,0.99,167.0,2023,4,14,Medium
+2023-04-03,2023,Guangzhou,China,Asia,22,10,16.7,0.83,0.665,205.1,2023,4,14,Low
+2023-04-03,2023,Antwerp,Belgium,Europe,12,6,12.0,1.09,0.939,140.3,2023,4,14,Low
+2023-04-03,2023,Long Beach,USA,NorthAmerica,11,0,13.3,1.48,0.99,168.5,2023,4,14,Medium
+2023-04-03,2023,Shenzhen,China,Asia,28,6,25.4,0.98,0.784,306.9,2023,4,14,Low
+2023-04-03,2023,Hong Kong,China,Asia,18,6,17.6,1.25,0.953,212.5,2023,4,14,Medium
+2023-04-03,2023,Ningbo,China,Asia,30,13,49.1,1.75,0.99,588.6,2023,4,14,Medium
+2023-04-03,2023,Laem Chabang,Thailand,Asia,8,7,11.2,1.59,0.99,131.5,2023,4,14,Medium
+2023-04-03,2023,Los Angeles,USA,NorthAmerica,12,5,11.3,1.13,0.956,132.4,2023,4,14,Low
+2023-04-03,2023,Busan,SouthKorea,Asia,22,6,18.5,1.03,0.791,224.4,2023,4,14,Low
+2023-04-03,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,10,20.2,1.44,0.99,234.5,2023,4,14,Medium
+2023-04-03,2023,Tanjung Pelepas,Malaysia,Asia,10,3,14.9,1.66,0.99,178.5,2023,4,14,Medium
+2023-04-03,2023,Shanghai,China,Asia,95,16,43.7,0.97,0.765,536.5,2023,4,14,Low
+2023-04-03,2023,Singapore,Singapore,Asia,40,30,54.0,1.42,0.99,652.9,2023,4,14,Medium
+2023-04-03,2023,Colombo,SriLanka,Asia,7,10,12.4,2.06,0.99,148.9,2023,4,14,Medium
+2023-04-03,2023,Rotterdam,Netherlands,Europe,14,4,12.7,1.05,0.813,133.1,2023,4,14,Low
+2023-04-03,2023,Felixstowe,UK,Europe,4,3,5.7,1.9,0.99,72.4,2023,4,14,Medium
+2023-04-03,2023,Tanjung Priok,Indonesia,Asia,7,4,8.3,1.39,0.99,96.0,2023,4,14,Medium
+2023-04-03,2023,Qingdao,China,Asia,24,20,23.2,1.06,0.859,291.6,2023,4,14,Low
+2023-04-03,2023,New York,USA,NorthAmerica,7,6,12.9,2.14,0.99,159.6,2023,4,14,Medium
+2023-04-10,2023,Tanjung Priok,Indonesia,Asia,7,2,8.5,1.42,0.99,106.9,2023,4,15,Medium
+2023-04-10,2023,Shenzhen,China,Asia,28,17,42.8,1.64,0.99,520.5,2023,4,15,Medium
+2023-04-10,2023,Busan,SouthKorea,Asia,22,13,24.4,1.35,0.99,297.6,2023,4,15,Medium
+2023-04-10,2023,Laem Chabang,Thailand,Asia,8,2,8.4,1.19,0.908,89.9,2023,4,15,Low
+2023-04-10,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,6,13.5,0.96,0.76,150.2,2023,4,15,Low
+2023-04-10,2023,Guangzhou,China,Asia,22,17,22.6,1.13,0.878,261.9,2023,4,15,Low
+2023-04-10,2023,Singapore,Singapore,Asia,40,14,51.7,1.36,0.99,614.3,2023,4,15,Medium
+2023-04-10,2023,Colombo,SriLanka,Asia,7,4,7.4,1.24,0.955,75.1,2023,4,15,Low
+2023-04-10,2023,Qingdao,China,Asia,24,13,29.8,1.35,0.99,360.1,2023,4,15,Medium
+2023-04-10,2023,Tanjung Pelepas,Malaysia,Asia,10,4,10.0,1.12,0.808,121.4,2023,4,15,Low
+2023-04-10,2023,Ningbo,China,Asia,30,17,29.9,1.07,0.829,353.3,2023,4,15,Low
+2023-04-10,2023,New York,USA,NorthAmerica,7,3,8.1,1.35,0.966,94.5,2023,4,15,Medium
+2023-04-10,2023,Hamburg,Germany,Europe,9,8,12.1,1.52,0.99,143.6,2023,4,15,Medium
+2023-04-10,2023,Felixstowe,UK,Europe,4,2,6.5,2.18,0.99,69.7,2023,4,15,Medium
+2023-04-10,2023,Los Angeles,USA,NorthAmerica,12,1,14.9,1.49,0.99,174.5,2023,4,15,Medium
+2023-04-10,2023,Long Beach,USA,NorthAmerica,11,9,15.6,1.73,0.99,189.1,2023,4,15,Medium
+2023-04-10,2023,Rotterdam,Netherlands,Europe,14,5,15.4,1.28,0.99,187.4,2023,4,15,Medium
+2023-04-10,2023,Shanghai,China,Asia,95,54,64.2,1.43,0.99,783.5,2023,4,15,Medium
+2023-04-10,2023,Antwerp,Belgium,Europe,12,11,18.4,1.67,0.99,222.4,2023,4,15,Medium
+2023-04-10,2023,Hong Kong,China,Asia,18,8,20.0,1.43,0.99,232.7,2023,4,15,Medium
+2023-04-17,2023,Guangzhou,China,Asia,22,10,20.5,1.03,0.737,260.8,2023,4,16,Low
+2023-04-17,2023,Long Beach,USA,NorthAmerica,11,5,14.0,1.55,0.99,162.4,2023,4,16,Medium
+2023-04-17,2023,Felixstowe,UK,Europe,4,0,3.1,1.05,0.782,37.4,2023,4,16,Low
+2023-04-17,2023,Ningbo,China,Asia,30,17,38.2,1.36,0.99,455.0,2023,4,16,Medium
+2023-04-17,2023,Los Angeles,USA,NorthAmerica,12,8,17.6,1.76,0.99,216.0,2023,4,16,Medium
+2023-04-17,2023,Singapore,Singapore,Asia,40,26,54.2,1.43,0.99,654.7,2023,4,16,Medium
+2023-04-17,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,5,19.2,1.37,0.99,225.9,2023,4,16,Medium
+2023-04-17,2023,Shanghai,China,Asia,95,65,59.9,1.33,0.99,712.1,2023,4,16,Medium
+2023-04-17,2023,Colombo,SriLanka,Asia,7,4,9.9,1.66,0.99,115.2,2023,4,16,Medium
+2023-04-17,2023,Hong Kong,China,Asia,18,10,22.4,1.6,0.99,262.5,2023,4,16,Medium
+2023-04-17,2023,Antwerp,Belgium,Europe,12,14,23.0,2.09,0.99,289.0,2023,4,16,Medium
+2023-04-17,2023,New York,USA,NorthAmerica,7,4,8.6,1.43,0.99,105.2,2023,4,16,Medium
+2023-04-17,2023,Rotterdam,Netherlands,Europe,14,9,13.9,1.16,0.935,161.1,2023,4,16,Low
+2023-04-17,2023,Busan,SouthKorea,Asia,22,27,24.3,1.35,0.99,294.4,2023,4,16,Medium
+2023-04-17,2023,Tanjung Pelepas,Malaysia,Asia,10,6,8.6,0.96,0.745,99.1,2023,4,16,Low
+2023-04-17,2023,Hamburg,Germany,Europe,9,6,13.8,1.72,0.99,175.3,2023,4,16,Medium
+2023-04-17,2023,Qingdao,China,Asia,24,12,28.3,1.29,0.99,338.3,2023,4,16,Medium
+2023-04-17,2023,Shenzhen,China,Asia,28,16,30.6,1.18,0.855,362.2,2023,4,16,Low
+2023-04-17,2023,Tanjung Priok,Indonesia,Asia,7,3,8.1,1.34,0.99,88.5,2023,4,16,Medium
+2023-04-17,2023,Laem Chabang,Thailand,Asia,8,12,13.3,1.9,0.99,161.5,2023,4,16,Medium
+2023-04-24,2023,Shanghai,China,Asia,95,48,44.9,1.0,0.811,536.0,2023,4,17,Low
+2023-04-24,2023,Ningbo,China,Asia,30,14,27.3,0.97,0.728,319.1,2023,4,17,Low
+2023-04-24,2023,Rotterdam,Netherlands,Europe,14,0,14.3,1.19,0.887,165.9,2023,4,17,Low
+2023-04-24,2023,Felixstowe,UK,Europe,4,2,4.3,1.44,0.99,59.6,2023,4,17,Medium
+2023-04-24,2023,Laem Chabang,Thailand,Asia,8,5,10.1,1.45,0.99,129.6,2023,4,17,Medium
+2023-04-24,2023,Antwerp,Belgium,Europe,12,3,13.8,1.26,0.99,166.8,2023,4,17,Medium
+2023-04-24,2023,Busan,SouthKorea,Asia,22,27,49.3,2.74,0.99,583.6,2023,4,17,Medium
+2023-04-24,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,9,14.3,1.02,0.789,177.9,2023,4,17,Low
+2023-04-24,2023,Colombo,SriLanka,Asia,7,3,7.7,1.28,0.99,103.1,2023,4,17,Medium
+2023-04-24,2023,Tanjung Priok,Indonesia,Asia,7,7,7.8,1.31,0.99,83.4,2023,4,17,Medium
+2023-04-24,2023,Qingdao,China,Asia,24,4,41.4,1.88,0.99,494.1,2023,4,17,Medium
+2023-04-24,2023,Singapore,Singapore,Asia,40,37,43.8,1.15,0.889,522.7,2023,4,17,Low
+2023-04-24,2023,New York,USA,NorthAmerica,7,7,9.5,1.58,0.99,113.1,2023,4,17,Medium
+2023-04-24,2023,Shenzhen,China,Asia,28,14,45.2,1.74,0.99,523.4,2023,4,17,Medium
+2023-04-24,2023,Guangzhou,China,Asia,22,33,35.1,1.75,0.99,418.3,2023,4,17,Medium
+2023-04-24,2023,Tanjung Pelepas,Malaysia,Asia,10,3,16.2,1.8,0.99,180.2,2023,4,17,Medium
+2023-04-24,2023,Hamburg,Germany,Europe,9,7,10.2,1.28,0.942,121.9,2023,4,17,Medium
+2023-04-24,2023,Hong Kong,China,Asia,18,17,17.8,1.27,0.989,204.3,2023,4,17,Medium
+2023-04-24,2023,Long Beach,USA,NorthAmerica,11,14,16.7,1.85,0.99,196.7,2023,4,17,Medium
+2023-04-24,2023,Los Angeles,USA,NorthAmerica,12,9,12.1,1.21,0.91,150.9,2023,4,17,Low
+2023-05-01,2023,Hong Kong,China,Asia,18,9,23.8,1.7,0.99,280.5,2023,5,18,Medium
+2023-05-01,2023,Busan,SouthKorea,Asia,22,7,35.6,1.98,0.99,423.5,2023,5,18,Medium
+2023-05-01,2023,Guangzhou,China,Asia,22,0,21.7,1.09,0.831,274.8,2023,5,18,Low
+2023-05-01,2023,Qingdao,China,Asia,24,25,35.4,1.61,0.99,431.8,2023,5,18,Medium
+2023-05-01,2023,Shenzhen,China,Asia,28,13,30.5,1.17,0.985,356.8,2023,5,18,Low
+2023-05-01,2023,Tanjung Priok,Indonesia,Asia,7,2,9.7,1.61,0.99,111.3,2023,5,18,Medium
+2023-05-01,2023,Colombo,SriLanka,Asia,7,2,5.9,0.98,0.728,80.5,2023,5,18,Low
+2023-05-01,2023,Tanjung Pelepas,Malaysia,Asia,10,16,16.9,1.87,0.99,195.7,2023,5,18,Medium
+2023-05-01,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,6,16.9,1.21,0.99,190.0,2023,5,18,Low
+2023-05-01,2023,Long Beach,USA,NorthAmerica,11,7,9.6,1.06,0.851,117.5,2023,5,18,Low
+2023-05-01,2023,Antwerp,Belgium,Europe,12,5,18.6,1.69,0.99,214.0,2023,5,18,Medium
+2023-05-01,2023,Shanghai,China,Asia,95,55,83.0,1.84,0.99,983.7,2023,5,18,Medium
+2023-05-01,2023,Hamburg,Germany,Europe,9,5,12.3,1.53,0.99,128.1,2023,5,18,Medium
+2023-05-01,2023,Los Angeles,USA,NorthAmerica,12,7,12.2,1.22,0.937,147.3,2023,5,18,Low
+2023-05-01,2023,Rotterdam,Netherlands,Europe,14,4,16.5,1.38,0.99,188.2,2023,5,18,Medium
+2023-05-01,2023,Singapore,Singapore,Asia,40,2,57.9,1.52,0.99,702.3,2023,5,18,Medium
+2023-05-01,2023,New York,USA,NorthAmerica,7,3,7.9,1.32,0.99,93.9,2023,5,18,Medium
+2023-05-01,2023,Laem Chabang,Thailand,Asia,8,7,10.5,1.5,0.99,114.6,2023,5,18,Medium
+2023-05-01,2023,Ningbo,China,Asia,30,24,35.6,1.27,0.99,422.8,2023,5,18,Medium
+2023-05-01,2023,Felixstowe,UK,Europe,4,4,4.6,1.54,0.99,52.7,2023,5,18,Medium
+2023-05-08,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,23,26.1,1.86,0.99,310.0,2023,5,19,Medium
+2023-05-08,2023,Tanjung Pelepas,Malaysia,Asia,10,4,12.4,1.37,0.99,147.4,2023,5,19,Medium
+2023-05-08,2023,Singapore,Singapore,Asia,40,25,33.2,0.87,0.742,395.7,2023,5,19,Low
+2023-05-08,2023,Laem Chabang,Thailand,Asia,8,2,10.5,1.5,0.99,109.4,2023,5,19,Medium
+2023-05-08,2023,Tanjung Priok,Indonesia,Asia,7,2,13.4,2.24,0.99,155.7,2023,5,19,Medium
+2023-05-08,2023,Rotterdam,Netherlands,Europe,14,10,16.9,1.41,0.99,203.0,2023,5,19,Medium
+2023-05-08,2023,Los Angeles,USA,NorthAmerica,12,5,10.3,1.03,0.807,119.5,2023,5,19,Low
+2023-05-08,2023,Colombo,SriLanka,Asia,7,2,7.0,1.17,0.957,95.1,2023,5,19,Low
+2023-05-08,2023,New York,USA,NorthAmerica,7,2,9.5,1.58,0.99,126.0,2023,5,19,Medium
+2023-05-08,2023,Hong Kong,China,Asia,18,9,26.0,1.86,0.99,304.0,2023,5,19,Medium
+2023-05-08,2023,Ningbo,China,Asia,30,21,32.8,1.17,0.817,399.6,2023,5,19,Low
+2023-05-08,2023,Busan,SouthKorea,Asia,22,3,23.2,1.29,0.99,275.9,2023,5,19,Medium
+2023-05-08,2023,Hamburg,Germany,Europe,9,8,15.8,1.98,0.99,197.1,2023,5,19,Medium
+2023-05-08,2023,Felixstowe,UK,Europe,4,3,5.6,1.87,0.99,73.1,2023,5,19,Medium
+2023-05-08,2023,Shanghai,China,Asia,95,21,56.8,1.26,0.906,690.6,2023,5,19,Medium
+2023-05-08,2023,Shenzhen,China,Asia,28,31,41.5,1.6,0.99,495.1,2023,5,19,Medium
+2023-05-08,2023,Guangzhou,China,Asia,22,9,22.0,1.1,0.834,266.4,2023,5,19,Low
+2023-05-08,2023,Long Beach,USA,NorthAmerica,11,6,10.4,1.15,0.855,129.5,2023,5,19,Low
+2023-05-08,2023,Antwerp,Belgium,Europe,12,5,15.1,1.37,0.99,178.6,2023,5,19,Medium
+2023-05-08,2023,Qingdao,China,Asia,24,11,36.9,1.68,0.99,443.4,2023,5,19,Medium
+2023-05-15,2023,Rotterdam,Netherlands,Europe,14,3,11.0,0.92,0.7,129.0,2023,5,20,Low
+2023-05-15,2023,Singapore,Singapore,Asia,40,43,55.2,1.45,0.99,669.1,2023,5,20,Medium
+2023-05-15,2023,Felixstowe,UK,Europe,4,2,3.9,1.31,0.99,40.3,2023,5,20,Medium
+2023-05-15,2023,Ningbo,China,Asia,30,3,23.7,0.84,0.638,301.3,2023,5,20,Low
+2023-05-15,2023,Guangzhou,China,Asia,22,4,37.2,1.86,0.99,458.7,2023,5,20,Medium
+2023-05-15,2023,Tanjung Priok,Indonesia,Asia,7,5,9.7,1.62,0.99,122.7,2023,5,20,Medium
+2023-05-15,2023,Colombo,SriLanka,Asia,7,1,11.7,1.95,0.99,142.6,2023,5,20,Medium
+2023-05-15,2023,Busan,SouthKorea,Asia,22,14,17.9,1.0,0.757,217.9,2023,5,20,Low
+2023-05-15,2023,Antwerp,Belgium,Europe,12,1,8.4,0.76,0.625,103.2,2023,5,20,Low
+2023-05-15,2023,Shenzhen,China,Asia,28,4,36.4,1.4,0.99,446.5,2023,5,20,Medium
+2023-05-15,2023,Tanjung Pelepas,Malaysia,Asia,10,3,13.5,1.49,0.99,152.5,2023,5,20,Medium
+2023-05-15,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,11,27.0,1.93,0.99,320.9,2023,5,20,Medium
+2023-05-15,2023,Shanghai,China,Asia,95,38,56.8,1.26,0.99,678.5,2023,5,20,Medium
+2023-05-15,2023,Los Angeles,USA,NorthAmerica,12,7,13.3,1.33,0.99,158.7,2023,5,20,Medium
+2023-05-15,2023,Long Beach,USA,NorthAmerica,11,15,17.1,1.91,0.99,194.7,2023,5,20,Medium
+2023-05-15,2023,New York,USA,NorthAmerica,7,7,7.7,1.28,0.99,91.4,2023,5,20,Medium
+2023-05-15,2023,Qingdao,China,Asia,24,24,28.9,1.31,0.99,345.7,2023,5,20,Medium
+2023-05-15,2023,Laem Chabang,Thailand,Asia,8,2,8.4,1.2,0.923,102.9,2023,5,20,Low
+2023-05-15,2023,Hong Kong,China,Asia,18,14,17.6,1.25,0.985,228.9,2023,5,20,Medium
+2023-05-15,2023,Hamburg,Germany,Europe,9,5,12.5,1.57,0.99,161.9,2023,5,20,Medium
+2023-05-22,2023,Antwerp,Belgium,Europe,12,7,11.4,1.03,0.77,142.0,2023,5,21,Low
+2023-05-22,2023,New York,USA,NorthAmerica,7,3,8.3,1.39,0.99,107.1,2023,5,21,Medium
+2023-05-22,2023,Ningbo,China,Asia,30,38,57.5,2.05,0.99,674.9,2023,5,21,Medium
+2023-05-22,2023,Qingdao,China,Asia,24,0,34.6,1.57,0.99,417.0,2023,5,21,Medium
+2023-05-22,2023,Busan,SouthKorea,Asia,22,18,30.0,1.67,0.99,365.4,2023,5,21,Medium
+2023-05-22,2023,Rotterdam,Netherlands,Europe,14,14,16.5,1.38,0.99,190.2,2023,5,21,Medium
+2023-05-22,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,4,16.4,1.17,0.957,190.5,2023,5,21,Low
+2023-05-22,2023,Hamburg,Germany,Europe,9,10,11.0,1.38,0.99,119.4,2023,5,21,Medium
+2023-05-22,2023,Felixstowe,UK,Europe,4,0,2.4,0.79,0.624,37.1,2023,5,21,Low
+2023-05-22,2023,Singapore,Singapore,Asia,40,16,43.4,1.14,0.858,523.2,2023,5,21,Low
+2023-05-22,2023,Tanjung Priok,Indonesia,Asia,7,8,6.8,1.13,0.908,77.3,2023,5,21,Low
+2023-05-22,2023,Hong Kong,China,Asia,18,9,17.7,1.26,0.99,199.9,2023,5,21,Medium
+2023-05-22,2023,Colombo,SriLanka,Asia,7,4,8.0,1.33,0.99,104.3,2023,5,21,Medium
+2023-05-22,2023,Long Beach,USA,NorthAmerica,11,13,12.8,1.42,0.99,152.7,2023,5,21,Medium
+2023-05-22,2023,Shanghai,China,Asia,95,28,54.7,1.21,0.987,651.5,2023,5,21,Low
+2023-05-22,2023,Shenzhen,China,Asia,28,18,40.0,1.54,0.99,484.6,2023,5,21,Medium
+2023-05-22,2023,Laem Chabang,Thailand,Asia,8,6,10.4,1.49,0.99,123.8,2023,5,21,Medium
+2023-05-22,2023,Guangzhou,China,Asia,22,14,32.4,1.62,0.99,378.2,2023,5,21,Medium
+2023-05-22,2023,Los Angeles,USA,NorthAmerica,12,11,10.5,1.05,0.861,128.2,2023,5,21,Low
+2023-05-22,2023,Tanjung Pelepas,Malaysia,Asia,10,0,11.0,1.22,0.934,126.9,2023,5,21,Low
+2023-05-29,2023,Shenzhen,China,Asia,28,15,42.6,1.64,0.99,521.4,2023,5,22,Medium
+2023-05-29,2023,Tanjung Priok,Indonesia,Asia,7,5,8.5,1.42,0.99,106.3,2023,5,22,Medium
+2023-05-29,2023,Antwerp,Belgium,Europe,12,6,14.4,1.31,0.99,193.6,2023,5,22,Medium
+2023-05-29,2023,Long Beach,USA,NorthAmerica,11,11,17.3,1.92,0.99,201.7,2023,5,22,Medium
+2023-05-29,2023,Busan,SouthKorea,Asia,22,9,23.7,1.32,0.99,271.4,2023,5,22,Medium
+2023-05-29,2023,Felixstowe,UK,Europe,4,2,4.9,1.65,0.99,57.9,2023,5,22,Medium
+2023-05-29,2023,Hamburg,Germany,Europe,9,4,13.8,1.73,0.99,176.6,2023,5,22,Medium
+2023-05-29,2023,Colombo,SriLanka,Asia,7,5,10.1,1.69,0.99,118.4,2023,5,22,Medium
+2023-05-29,2023,Qingdao,China,Asia,24,21,39.2,1.78,0.99,477.9,2023,5,22,Medium
+2023-05-29,2023,Tanjung Pelepas,Malaysia,Asia,10,7,15.4,1.71,0.99,184.4,2023,5,22,Medium
+2023-05-29,2023,Shanghai,China,Asia,95,39,51.9,1.15,0.914,606.2,2023,5,22,Low
+2023-05-29,2023,Ningbo,China,Asia,30,14,39.3,1.4,0.99,472.9,2023,5,22,Medium
+2023-05-29,2023,Guangzhou,China,Asia,22,16,34.1,1.7,0.99,389.8,2023,5,22,Medium
+2023-05-29,2023,Rotterdam,Netherlands,Europe,14,12,19.2,1.6,0.99,237.1,2023,5,22,Medium
+2023-05-29,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,2,18.8,1.34,0.99,215.9,2023,5,22,Medium
+2023-05-29,2023,Laem Chabang,Thailand,Asia,8,13,16.0,2.29,0.99,191.0,2023,5,22,Medium
+2023-05-29,2023,Singapore,Singapore,Asia,40,31,68.5,1.8,0.99,813.5,2023,5,22,Medium
+2023-05-29,2023,New York,USA,NorthAmerica,7,8,14.0,2.34,0.99,166.7,2023,5,22,Medium
+2023-05-29,2023,Los Angeles,USA,NorthAmerica,12,0,18.1,1.81,0.99,213.9,2023,5,22,Medium
+2023-05-29,2023,Hong Kong,China,Asia,18,3,12.5,0.9,0.732,137.7,2023,5,22,Low
+2023-06-05,2023,Shanghai,China,Asia,95,39,44.7,0.99,0.791,530.5,2023,6,23,Low
+2023-06-05,2023,Laem Chabang,Thailand,Asia,8,5,8.7,1.24,0.93,98.0,2023,6,23,Low
+2023-06-05,2023,Shenzhen,China,Asia,28,12,41.6,1.6,0.99,496.2,2023,6,23,Medium
+2023-06-05,2023,Qingdao,China,Asia,24,12,26.3,1.19,0.948,311.8,2023,6,23,Low
+2023-06-05,2023,Singapore,Singapore,Asia,40,54,56.6,1.49,0.99,676.3,2023,6,23,Medium
+2023-06-05,2023,Tanjung Pelepas,Malaysia,Asia,10,0,7.1,0.79,0.606,87.8,2023,6,23,Low
+2023-06-05,2023,Colombo,SriLanka,Asia,7,2,5.4,0.9,0.705,75.3,2023,6,23,Low
+2023-06-05,2023,Busan,SouthKorea,Asia,22,4,25.5,1.42,0.99,307.2,2023,6,23,Medium
+2023-06-05,2023,Ningbo,China,Asia,30,24,33.6,1.2,0.858,403.8,2023,6,23,Low
+2023-06-05,2023,Tanjung Priok,Indonesia,Asia,7,7,10.3,1.72,0.99,140.6,2023,6,23,Medium
+2023-06-05,2023,Long Beach,USA,NorthAmerica,11,7,9.5,1.05,0.774,112.3,2023,6,23,Low
+2023-06-05,2023,Hong Kong,China,Asia,18,13,21.9,1.57,0.99,271.6,2023,6,23,Medium
+2023-06-05,2023,New York,USA,NorthAmerica,7,5,10.8,1.8,0.99,117.3,2023,6,23,Medium
+2023-06-05,2023,Los Angeles,USA,NorthAmerica,12,4,9.6,0.96,0.754,122.1,2023,6,23,Low
+2023-06-05,2023,Felixstowe,UK,Europe,4,0,3.2,1.06,0.763,49.1,2023,6,23,Low
+2023-06-05,2023,Rotterdam,Netherlands,Europe,14,2,15.6,1.3,0.99,188.5,2023,6,23,Medium
+2023-06-05,2023,Antwerp,Belgium,Europe,12,6,12.3,1.12,0.902,139.7,2023,6,23,Low
+2023-06-05,2023,Hamburg,Germany,Europe,9,11,16.1,2.01,0.99,179.4,2023,6,23,Medium
+2023-06-05,2023,Guangzhou,China,Asia,22,17,25.3,1.26,0.984,313.6,2023,6,23,Medium
+2023-06-05,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,6,14.1,1.0,0.826,172.3,2023,6,23,Low
+2023-06-12,2023,New York,USA,NorthAmerica,7,4,7.1,1.18,0.959,92.6,2023,6,24,Low
+2023-06-12,2023,Qingdao,China,Asia,24,9,43.5,1.98,0.99,528.5,2023,6,24,Medium
+2023-06-12,2023,Felixstowe,UK,Europe,4,4,6.4,2.15,0.99,66.2,2023,6,24,Medium
+2023-06-12,2023,Busan,SouthKorea,Asia,22,9,31.8,1.77,0.99,389.0,2023,6,24,Medium
+2023-06-12,2023,Tanjung Priok,Indonesia,Asia,7,9,13.2,2.21,0.99,159.4,2023,6,24,Medium
+2023-06-12,2023,Ningbo,China,Asia,30,12,30.3,1.08,0.857,355.1,2023,6,24,Low
+2023-06-12,2023,Singapore,Singapore,Asia,40,27,62.1,1.63,0.99,737.8,2023,6,24,Medium
+2023-06-12,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,10,21.5,1.53,0.99,263.9,2023,6,24,Medium
+2023-06-12,2023,Rotterdam,Netherlands,Europe,14,7,15.3,1.28,0.966,188.5,2023,6,24,Medium
+2023-06-12,2023,Hong Kong,China,Asia,18,17,20.7,1.48,0.99,244.7,2023,6,24,Medium
+2023-06-12,2023,Los Angeles,USA,NorthAmerica,12,6,10.2,1.02,0.793,124.6,2023,6,24,Low
+2023-06-12,2023,Guangzhou,China,Asia,22,9,36.6,1.83,0.99,431.8,2023,6,24,Medium
+2023-06-12,2023,Shanghai,China,Asia,95,29,58.2,1.29,0.99,687.7,2023,6,24,Medium
+2023-06-12,2023,Colombo,SriLanka,Asia,7,4,7.1,1.19,0.868,94.2,2023,6,24,Low
+2023-06-12,2023,Long Beach,USA,NorthAmerica,11,9,12.0,1.33,0.99,147.1,2023,6,24,Medium
+2023-06-12,2023,Laem Chabang,Thailand,Asia,8,2,5.5,0.79,0.655,64.7,2023,6,24,Low
+2023-06-12,2023,Hamburg,Germany,Europe,9,1,15.7,1.96,0.99,193.7,2023,6,24,Medium
+2023-06-12,2023,Antwerp,Belgium,Europe,12,3,10.0,0.91,0.737,116.9,2023,6,24,Low
+2023-06-12,2023,Tanjung Pelepas,Malaysia,Asia,10,3,11.5,1.27,0.983,134.9,2023,6,24,Medium
+2023-06-12,2023,Shenzhen,China,Asia,28,2,35.6,1.37,0.99,437.9,2023,6,24,Medium
+2023-06-19,2023,Los Angeles,USA,NorthAmerica,12,10,11.9,1.19,0.92,156.4,2023,6,25,Low
+2023-06-19,2023,Busan,SouthKorea,Asia,22,4,21.8,1.21,0.888,264.1,2023,6,25,Low
+2023-06-19,2023,Antwerp,Belgium,Europe,12,10,14.0,1.27,0.962,167.5,2023,6,25,Medium
+2023-06-19,2023,Laem Chabang,Thailand,Asia,8,5,9.2,1.32,0.988,110.9,2023,6,25,Medium
+2023-06-19,2023,Guangzhou,China,Asia,22,18,27.4,1.37,0.99,334.7,2023,6,25,Medium
+2023-06-19,2023,Rotterdam,Netherlands,Europe,14,8,16.0,1.34,0.99,183.0,2023,6,25,Medium
+2023-06-19,2023,Shanghai,China,Asia,95,27,49.2,1.09,0.849,595.3,2023,6,25,Low
+2023-06-19,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,11,16.4,1.17,0.964,190.3,2023,6,25,Low
+2023-06-19,2023,Singapore,Singapore,Asia,40,0,72.9,1.92,0.99,871.6,2023,6,25,Medium
+2023-06-19,2023,Qingdao,China,Asia,24,10,27.5,1.25,0.97,336.0,2023,6,25,Medium
+2023-06-19,2023,Hong Kong,China,Asia,18,5,14.2,1.01,0.789,171.7,2023,6,25,Low
+2023-06-19,2023,Tanjung Pelepas,Malaysia,Asia,10,10,14.8,1.64,0.99,176.7,2023,6,25,Medium
+2023-06-19,2023,Hamburg,Germany,Europe,9,6,10.6,1.32,0.99,125.5,2023,6,25,Medium
+2023-06-19,2023,New York,USA,NorthAmerica,7,0,5.5,0.91,0.733,59.5,2023,6,25,Low
+2023-06-19,2023,Shenzhen,China,Asia,28,13,40.5,1.56,0.99,488.8,2023,6,25,Medium
+2023-06-19,2023,Tanjung Priok,Indonesia,Asia,7,3,7.5,1.24,0.884,101.9,2023,6,25,Low
+2023-06-19,2023,Ningbo,China,Asia,30,17,39.4,1.41,0.99,468.8,2023,6,25,Medium
+2023-06-19,2023,Long Beach,USA,NorthAmerica,11,8,11.0,1.22,0.99,137.4,2023,6,25,Low
+2023-06-19,2023,Colombo,SriLanka,Asia,7,3,8.2,1.37,0.99,107.4,2023,6,25,Medium
+2023-06-19,2023,Felixstowe,UK,Europe,4,2,3.9,1.3,0.99,52.2,2023,6,25,Medium
+2023-06-26,2023,Singapore,Singapore,Asia,40,42,46.3,1.22,0.922,550.1,2023,6,26,Low
+2023-06-26,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,5,15.9,1.13,0.826,186.9,2023,6,26,Low
+2023-06-26,2023,Rotterdam,Netherlands,Europe,14,0,13.0,1.08,0.865,145.7,2023,6,26,Low
+2023-06-26,2023,Ningbo,China,Asia,30,11,36.4,1.3,0.99,434.1,2023,6,26,Medium
+2023-06-26,2023,Tanjung Pelepas,Malaysia,Asia,10,7,13.0,1.45,0.99,156.0,2023,6,26,Medium
+2023-06-26,2023,Tanjung Priok,Indonesia,Asia,7,0,10.9,1.81,0.99,130.4,2023,6,26,Medium
+2023-06-26,2023,Felixstowe,UK,Europe,4,5,5.5,1.83,0.99,88.2,2023,6,26,Medium
+2023-06-26,2023,Laem Chabang,Thailand,Asia,8,6,11.8,1.69,0.99,151.8,2023,6,26,Medium
+2023-06-26,2023,Los Angeles,USA,NorthAmerica,12,7,11.1,1.11,0.862,130.3,2023,6,26,Low
+2023-06-26,2023,Hamburg,Germany,Europe,9,13,15.4,1.93,0.99,180.3,2023,6,26,Medium
+2023-06-26,2023,Busan,SouthKorea,Asia,22,16,20.2,1.12,0.848,235.3,2023,6,26,Low
+2023-06-26,2023,Hong Kong,China,Asia,18,4,11.1,0.79,0.619,137.4,2023,6,26,Low
+2023-06-26,2023,Shenzhen,China,Asia,28,20,33.8,1.3,0.99,414.1,2023,6,26,Medium
+2023-06-26,2023,New York,USA,NorthAmerica,7,0,10.1,1.69,0.99,121.3,2023,6,26,Medium
+2023-06-26,2023,Shanghai,China,Asia,95,26,44.7,0.99,0.818,539.9,2023,6,26,Low
+2023-06-26,2023,Qingdao,China,Asia,24,6,26.2,1.19,0.975,317.7,2023,6,26,Low
+2023-06-26,2023,Long Beach,USA,NorthAmerica,11,2,12.5,1.38,0.99,147.8,2023,6,26,Medium
+2023-06-26,2023,Colombo,SriLanka,Asia,7,2,6.2,1.04,0.921,90.8,2023,6,26,Low
+2023-06-26,2023,Guangzhou,China,Asia,22,8,23.8,1.19,0.956,278.8,2023,6,26,Low
+2023-06-26,2023,Antwerp,Belgium,Europe,12,5,10.2,0.92,0.73,128.4,2023,6,26,Low
+2023-07-03,2023,Ningbo,China,Asia,30,29,32.4,1.16,0.92,386.2,2023,7,27,Low
+2023-07-03,2023,Colombo,SriLanka,Asia,7,0,10.2,1.7,0.99,117.3,2023,7,27,Medium
+2023-07-03,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,6,26.2,1.87,0.99,310.5,2023,7,27,Medium
+2023-07-03,2023,Shanghai,China,Asia,95,29,62.9,1.4,0.99,754.1,2023,7,27,Medium
+2023-07-03,2023,Hamburg,Germany,Europe,9,0,15.0,1.87,0.99,185.5,2023,7,27,Medium
+2023-07-03,2023,Singapore,Singapore,Asia,40,29,49.6,1.31,0.99,583.2,2023,7,27,Medium
+2023-07-03,2023,Shenzhen,China,Asia,28,14,26.4,1.02,0.779,316.6,2023,7,27,Low
+2023-07-03,2023,Hong Kong,China,Asia,18,15,28.4,2.03,0.99,326.0,2023,7,27,Medium
+2023-07-03,2023,Qingdao,China,Asia,24,26,38.2,1.74,0.99,467.4,2023,7,27,Medium
+2023-07-03,2023,Guangzhou,China,Asia,22,16,21.6,1.08,0.848,247.9,2023,7,27,Low
+2023-07-03,2023,Rotterdam,Netherlands,Europe,14,9,16.7,1.4,0.99,191.3,2023,7,27,Medium
+2023-07-03,2023,Felixstowe,UK,Europe,4,0,2.4,0.81,0.643,33.7,2023,7,27,Low
+2023-07-03,2023,Antwerp,Belgium,Europe,12,5,11.2,1.01,0.74,131.9,2023,7,27,Low
+2023-07-03,2023,Laem Chabang,Thailand,Asia,8,3,11.2,1.59,0.99,149.3,2023,7,27,Medium
+2023-07-03,2023,New York,USA,NorthAmerica,7,2,9.1,1.52,0.99,111.0,2023,7,27,Medium
+2023-07-03,2023,Los Angeles,USA,NorthAmerica,12,6,15.8,1.58,0.99,165.2,2023,7,27,Medium
+2023-07-03,2023,Tanjung Priok,Indonesia,Asia,7,4,7.7,1.28,0.932,92.4,2023,7,27,Medium
+2023-07-03,2023,Busan,SouthKorea,Asia,22,8,25.8,1.43,0.99,317.0,2023,7,27,Medium
+2023-07-03,2023,Long Beach,USA,NorthAmerica,11,5,10.6,1.18,0.99,137.5,2023,7,27,Low
+2023-07-03,2023,Tanjung Pelepas,Malaysia,Asia,10,3,16.3,1.81,0.99,178.2,2023,7,27,Medium
+2023-07-10,2023,Ningbo,China,Asia,30,9,39.2,1.4,0.99,467.8,2023,7,28,Medium
+2023-07-10,2023,Colombo,SriLanka,Asia,7,3,11.3,1.88,0.99,130.2,2023,7,28,Medium
+2023-07-10,2023,Tanjung Pelepas,Malaysia,Asia,10,8,12.6,1.4,0.99,152.9,2023,7,28,Medium
+2023-07-10,2023,Hamburg,Germany,Europe,9,6,8.8,1.1,0.855,101.0,2023,7,28,Low
+2023-07-10,2023,Tanjung Priok,Indonesia,Asia,7,4,8.3,1.38,0.99,102.7,2023,7,28,Medium
+2023-07-10,2023,Long Beach,USA,NorthAmerica,11,2,11.7,1.3,0.99,139.7,2023,7,28,Medium
+2023-07-10,2023,New York,USA,NorthAmerica,7,6,9.2,1.54,0.99,117.1,2023,7,28,Medium
+2023-07-10,2023,Guangzhou,China,Asia,22,13,33.4,1.67,0.99,381.2,2023,7,28,Medium
+2023-07-10,2023,Hong Kong,China,Asia,18,6,22.4,1.6,0.99,280.4,2023,7,28,Medium
+2023-07-10,2023,Antwerp,Belgium,Europe,12,9,21.5,1.96,0.99,252.6,2023,7,28,Medium
+2023-07-10,2023,Felixstowe,UK,Europe,4,1,3.9,1.29,0.99,42.1,2023,7,28,Medium
+2023-07-10,2023,Qingdao,China,Asia,24,15,24.8,1.13,0.856,293.7,2023,7,28,Low
+2023-07-10,2023,Shenzhen,China,Asia,28,32,43.6,1.68,0.99,526.2,2023,7,28,Medium
+2023-07-10,2023,Shanghai,China,Asia,95,39,83.2,1.85,0.99,994.8,2023,7,28,Medium
+2023-07-10,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,10,32.1,2.29,0.99,377.4,2023,7,28,Medium
+2023-07-10,2023,Rotterdam,Netherlands,Europe,14,14,15.9,1.33,0.99,199.1,2023,7,28,Medium
+2023-07-10,2023,Singapore,Singapore,Asia,40,33,41.3,1.09,0.851,499.4,2023,7,28,Low
+2023-07-10,2023,Busan,SouthKorea,Asia,22,13,25.0,1.39,0.99,286.7,2023,7,28,Medium
+2023-07-10,2023,Laem Chabang,Thailand,Asia,8,5,10.2,1.46,0.99,121.9,2023,7,28,Medium
+2023-07-10,2023,Los Angeles,USA,NorthAmerica,12,14,18.6,1.86,0.99,222.5,2023,7,28,Medium
+2023-07-17,2023,Long Beach,USA,NorthAmerica,11,5,7.9,0.88,0.725,75.3,2023,7,29,Low
+2023-07-17,2023,Los Angeles,USA,NorthAmerica,12,3,9.8,0.98,0.763,109.2,2023,7,29,Low
+2023-07-17,2023,Laem Chabang,Thailand,Asia,8,5,11.3,1.61,0.99,133.3,2023,7,29,Medium
+2023-07-17,2023,Singapore,Singapore,Asia,40,16,48.0,1.26,0.99,575.1,2023,7,29,Medium
+2023-07-17,2023,Rotterdam,Netherlands,Europe,14,4,17.6,1.47,0.99,210.2,2023,7,29,Medium
+2023-07-17,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,13,15.9,1.14,0.906,199.2,2023,7,29,Low
+2023-07-17,2023,Shanghai,China,Asia,95,25,63.9,1.42,0.99,770.6,2023,7,29,Medium
+2023-07-17,2023,Guangzhou,China,Asia,22,9,33.8,1.69,0.99,411.2,2023,7,29,Medium
+2023-07-17,2023,Tanjung Pelepas,Malaysia,Asia,10,8,14.1,1.57,0.99,175.7,2023,7,29,Medium
+2023-07-17,2023,Ningbo,China,Asia,30,16,27.7,0.99,0.751,329.2,2023,7,29,Low
+2023-07-17,2023,Hamburg,Germany,Europe,9,3,13.7,1.72,0.99,149.0,2023,7,29,Medium
+2023-07-17,2023,Colombo,SriLanka,Asia,7,4,7.4,1.23,0.909,107.7,2023,7,29,Low
+2023-07-17,2023,Tanjung Priok,Indonesia,Asia,7,6,10.6,1.76,0.99,148.2,2023,7,29,Medium
+2023-07-17,2023,Felixstowe,UK,Europe,4,2,3.1,1.05,0.85,46.4,2023,7,29,Low
+2023-07-17,2023,Hong Kong,China,Asia,18,8,12.8,0.92,0.767,162.3,2023,7,29,Low
+2023-07-17,2023,Qingdao,China,Asia,24,8,20.9,0.95,0.761,249.8,2023,7,29,Low
+2023-07-17,2023,Busan,SouthKorea,Asia,22,14,26.8,1.49,0.99,326.4,2023,7,29,Medium
+2023-07-17,2023,Antwerp,Belgium,Europe,12,1,9.9,0.9,0.731,107.5,2023,7,29,Low
+2023-07-17,2023,New York,USA,NorthAmerica,7,7,9.1,1.52,0.99,95.9,2023,7,29,Medium
+2023-07-17,2023,Shenzhen,China,Asia,28,14,34.1,1.31,0.955,420.4,2023,7,29,Medium
+2023-07-24,2023,Tanjung Pelepas,Malaysia,Asia,10,7,12.2,1.35,0.99,149.2,2023,7,30,Medium
+2023-07-24,2023,Colombo,SriLanka,Asia,7,1,6.3,1.04,0.839,85.5,2023,7,30,Low
+2023-07-24,2023,Antwerp,Belgium,Europe,12,8,16.1,1.46,0.99,194.5,2023,7,30,Medium
+2023-07-24,2023,Guangzhou,China,Asia,22,10,33.0,1.65,0.99,412.7,2023,7,30,Medium
+2023-07-24,2023,New York,USA,NorthAmerica,7,4,8.0,1.33,0.99,83.3,2023,7,30,Medium
+2023-07-24,2023,Laem Chabang,Thailand,Asia,8,8,12.7,1.82,0.99,156.3,2023,7,30,Medium
+2023-07-24,2023,Busan,SouthKorea,Asia,22,17,23.1,1.28,0.989,279.2,2023,7,30,Medium
+2023-07-24,2023,Shenzhen,China,Asia,28,20,32.4,1.25,0.99,378.6,2023,7,30,Medium
+2023-07-24,2023,Los Angeles,USA,NorthAmerica,12,21,20.4,2.04,0.99,244.5,2023,7,30,Medium
+2023-07-24,2023,Hamburg,Germany,Europe,9,5,11.6,1.45,0.99,142.3,2023,7,30,Medium
+2023-07-24,2023,Shanghai,China,Asia,95,64,75.9,1.69,0.99,902.9,2023,7,30,Medium
+2023-07-24,2023,Felixstowe,UK,Europe,4,0,4.3,1.42,0.99,38.9,2023,7,30,Medium
+2023-07-24,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,9,13.6,0.97,0.719,152.5,2023,7,30,Low
+2023-07-24,2023,Tanjung Priok,Indonesia,Asia,7,4,6.4,1.07,0.845,93.2,2023,7,30,Low
+2023-07-24,2023,Ningbo,China,Asia,30,40,32.8,1.17,0.887,376.9,2023,7,30,Low
+2023-07-24,2023,Qingdao,China,Asia,24,2,22.6,1.03,0.884,273.3,2023,7,30,Low
+2023-07-24,2023,Hong Kong,China,Asia,18,3,11.2,0.8,0.572,138.5,2023,7,30,Low
+2023-07-24,2023,Rotterdam,Netherlands,Europe,14,6,18.6,1.55,0.99,224.9,2023,7,30,Medium
+2023-07-24,2023,Long Beach,USA,NorthAmerica,11,4,9.9,1.1,0.886,114.5,2023,7,30,Low
+2023-07-24,2023,Singapore,Singapore,Asia,40,35,45.9,1.21,0.914,546.2,2023,7,30,Low
+2023-07-31,2023,Los Angeles,USA,NorthAmerica,12,8,9.8,0.98,0.765,114.9,2023,7,31,Low
+2023-07-31,2023,Busan,SouthKorea,Asia,22,13,22.5,1.25,0.959,282.9,2023,7,31,Medium
+2023-07-31,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,11,20.1,1.43,0.99,246.5,2023,7,31,Medium
+2023-07-31,2023,Hong Kong,China,Asia,18,0,21.0,1.5,0.99,257.9,2023,7,31,Medium
+2023-07-31,2023,Rotterdam,Netherlands,Europe,14,10,17.2,1.44,0.99,196.0,2023,7,31,Medium
+2023-07-31,2023,Guangzhou,China,Asia,22,30,37.8,1.89,0.99,450.1,2023,7,31,Medium
+2023-07-31,2023,Felixstowe,UK,Europe,4,2,4.3,1.43,0.99,50.9,2023,7,31,Medium
+2023-07-31,2023,Laem Chabang,Thailand,Asia,8,3,7.0,1.0,0.826,82.3,2023,7,31,Low
+2023-07-31,2023,Singapore,Singapore,Asia,40,25,51.4,1.35,0.99,633.8,2023,7,31,Medium
+2023-07-31,2023,Long Beach,USA,NorthAmerica,11,6,9.9,1.1,0.836,122.7,2023,7,31,Low
+2023-07-31,2023,Qingdao,China,Asia,24,14,24.2,1.1,0.944,295.0,2023,7,31,Low
+2023-07-31,2023,Ningbo,China,Asia,30,17,25.3,0.9,0.759,298.6,2023,7,31,Low
+2023-07-31,2023,Tanjung Priok,Indonesia,Asia,7,5,8.9,1.49,0.99,98.6,2023,7,31,Medium
+2023-07-31,2023,Shanghai,China,Asia,95,23,48.5,1.08,0.822,572.4,2023,7,31,Low
+2023-07-31,2023,Hamburg,Germany,Europe,9,8,10.6,1.32,0.99,130.7,2023,7,31,Medium
+2023-07-31,2023,Colombo,SriLanka,Asia,7,1,7.5,1.24,0.934,81.4,2023,7,31,Low
+2023-07-31,2023,Antwerp,Belgium,Europe,12,8,11.7,1.07,0.805,137.9,2023,7,31,Low
+2023-07-31,2023,New York,USA,NorthAmerica,7,5,7.5,1.25,0.97,87.5,2023,7,31,Medium
+2023-07-31,2023,Shenzhen,China,Asia,28,24,27.9,1.07,0.847,329.7,2023,7,31,Low
+2023-07-31,2023,Tanjung Pelepas,Malaysia,Asia,10,7,16.0,1.78,0.99,202.4,2023,7,31,Medium
+2023-08-07,2023,Antwerp,Belgium,Europe,12,8,13.1,1.19,0.95,136.1,2023,8,32,Low
+2023-08-07,2023,Shanghai,China,Asia,95,20,54.4,1.21,0.916,650.2,2023,8,32,Low
+2023-08-07,2023,Colombo,SriLanka,Asia,7,4,8.7,1.46,0.99,107.9,2023,8,32,Medium
+2023-08-07,2023,Los Angeles,USA,NorthAmerica,12,5,15.2,1.52,0.99,171.1,2023,8,32,Medium
+2023-08-07,2023,Hong Kong,China,Asia,18,10,19.6,1.4,0.99,226.9,2023,8,32,Medium
+2023-08-07,2023,Laem Chabang,Thailand,Asia,8,7,12.1,1.72,0.99,145.2,2023,8,32,Medium
+2023-08-07,2023,Qingdao,China,Asia,24,17,14.8,0.67,0.451,175.9,2023,8,32,Low
+2023-08-07,2023,Tanjung Pelepas,Malaysia,Asia,10,2,11.8,1.31,0.99,152.5,2023,8,32,Medium
+2023-08-07,2023,Rotterdam,Netherlands,Europe,14,27,24.3,2.03,0.99,281.2,2023,8,32,Medium
+2023-08-07,2023,Long Beach,USA,NorthAmerica,11,1,9.2,1.02,0.828,112.4,2023,8,32,Low
+2023-08-07,2023,Busan,SouthKorea,Asia,22,28,40.2,2.24,0.99,470.5,2023,8,32,Medium
+2023-08-07,2023,Shenzhen,China,Asia,28,26,34.0,1.31,0.99,396.3,2023,8,32,Medium
+2023-08-07,2023,Guangzhou,China,Asia,22,16,26.6,1.33,0.988,313.3,2023,8,32,Medium
+2023-08-07,2023,New York,USA,NorthAmerica,7,3,13.0,2.17,0.99,164.7,2023,8,32,Medium
+2023-08-07,2023,Hamburg,Germany,Europe,9,4,11.6,1.45,0.99,141.4,2023,8,32,Medium
+2023-08-07,2023,Felixstowe,UK,Europe,4,1,4.9,1.63,0.99,64.0,2023,8,32,Medium
+2023-08-07,2023,Tanjung Priok,Indonesia,Asia,7,2,6.5,1.09,0.886,80.1,2023,8,32,Low
+2023-08-07,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,20,23.5,1.68,0.99,294.1,2023,8,32,Medium
+2023-08-07,2023,Singapore,Singapore,Asia,40,0,55.8,1.47,0.99,669.8,2023,8,32,Medium
+2023-08-07,2023,Ningbo,China,Asia,30,35,52.0,1.86,0.99,622.4,2023,8,32,Medium
+2023-08-14,2023,Tanjung Pelepas,Malaysia,Asia,10,11,16.8,1.86,0.99,196.1,2023,8,33,Medium
+2023-08-14,2023,Ningbo,China,Asia,30,28,39.5,1.41,0.99,469.1,2023,8,33,Medium
+2023-08-14,2023,Tanjung Priok,Indonesia,Asia,7,6,7.7,1.28,0.921,81.9,2023,8,33,Medium
+2023-08-14,2023,Singapore,Singapore,Asia,40,29,51.9,1.36,0.99,621.8,2023,8,33,Medium
+2023-08-14,2023,Shanghai,China,Asia,95,44,81.6,1.81,0.99,980.0,2023,8,33,Medium
+2023-08-14,2023,Qingdao,China,Asia,24,7,22.4,1.02,0.804,251.9,2023,8,33,Low
+2023-08-14,2023,Hamburg,Germany,Europe,9,8,10.3,1.29,0.99,127.1,2023,8,33,Medium
+2023-08-14,2023,Shenzhen,China,Asia,28,39,52.8,2.03,0.99,624.2,2023,8,33,Medium
+2023-08-14,2023,Rotterdam,Netherlands,Europe,14,8,13.4,1.11,0.921,150.5,2023,8,33,Low
+2023-08-14,2023,Long Beach,USA,NorthAmerica,11,5,15.3,1.7,0.99,194.5,2023,8,33,Medium
+2023-08-14,2023,New York,USA,NorthAmerica,7,3,7.7,1.28,0.99,93.3,2023,8,33,Medium
+2023-08-14,2023,Laem Chabang,Thailand,Asia,8,1,11.8,1.68,0.99,147.2,2023,8,33,Medium
+2023-08-14,2023,Colombo,SriLanka,Asia,7,3,10.0,1.66,0.99,120.7,2023,8,33,Medium
+2023-08-14,2023,Antwerp,Belgium,Europe,12,1,15.8,1.44,0.99,189.0,2023,8,33,Medium
+2023-08-14,2023,Felixstowe,UK,Europe,4,2,3.3,1.11,0.906,40.4,2023,8,33,Low
+2023-08-14,2023,Busan,SouthKorea,Asia,22,7,17.0,0.95,0.74,202.8,2023,8,33,Low
+2023-08-14,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,12,30.3,2.16,0.99,352.0,2023,8,33,Medium
+2023-08-14,2023,Guangzhou,China,Asia,22,10,18.9,0.94,0.74,221.5,2023,8,33,Low
+2023-08-14,2023,Hong Kong,China,Asia,18,9,18.8,1.34,0.99,231.4,2023,8,33,Medium
+2023-08-14,2023,Los Angeles,USA,NorthAmerica,12,8,17.7,1.77,0.99,211.0,2023,8,33,Medium
+2023-08-21,2023,New York,USA,NorthAmerica,7,2,7.0,1.16,0.893,81.2,2023,8,34,Low
+2023-08-21,2023,Tanjung Priok,Indonesia,Asia,7,3,4.3,0.72,0.56,59.8,2023,8,34,Low
+2023-08-21,2023,Busan,SouthKorea,Asia,22,12,16.1,0.9,0.785,203.6,2023,8,34,Low
+2023-08-21,2023,Colombo,SriLanka,Asia,7,4,8.0,1.33,0.99,101.0,2023,8,34,Medium
+2023-08-21,2023,Los Angeles,USA,NorthAmerica,12,2,13.0,1.3,0.99,149.6,2023,8,34,Medium
+2023-08-21,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,16,16.8,1.2,0.939,197.1,2023,8,34,Low
+2023-08-21,2023,Ningbo,China,Asia,30,36,36.2,1.29,0.99,441.2,2023,8,34,Medium
+2023-08-21,2023,Shanghai,China,Asia,95,28,56.5,1.26,0.99,681.4,2023,8,34,Medium
+2023-08-21,2023,Qingdao,China,Asia,24,22,29.0,1.32,0.99,337.3,2023,8,34,Medium
+2023-08-21,2023,Long Beach,USA,NorthAmerica,11,6,8.3,0.92,0.772,106.5,2023,8,34,Low
+2023-08-21,2023,Hong Kong,China,Asia,18,14,19.3,1.38,0.99,220.1,2023,8,34,Medium
+2023-08-21,2023,Shenzhen,China,Asia,28,28,45.7,1.76,0.99,546.3,2023,8,34,Medium
+2023-08-21,2023,Rotterdam,Netherlands,Europe,14,8,15.7,1.31,0.99,185.7,2023,8,34,Medium
+2023-08-21,2023,Tanjung Pelepas,Malaysia,Asia,10,5,10.5,1.17,0.977,117.3,2023,8,34,Low
+2023-08-21,2023,Felixstowe,UK,Europe,4,1,3.3,1.1,0.879,32.9,2023,8,34,Low
+2023-08-21,2023,Guangzhou,China,Asia,22,7,33.1,1.66,0.99,404.0,2023,8,34,Medium
+2023-08-21,2023,Hamburg,Germany,Europe,9,5,7.6,0.95,0.718,82.9,2023,8,34,Low
+2023-08-21,2023,Laem Chabang,Thailand,Asia,8,7,10.2,1.45,0.99,117.7,2023,8,34,Medium
+2023-08-21,2023,Singapore,Singapore,Asia,40,21,59.8,1.57,0.99,741.7,2023,8,34,Medium
+2023-08-21,2023,Antwerp,Belgium,Europe,12,8,13.6,1.24,0.99,157.0,2023,8,34,Low
+2023-08-28,2023,Shenzhen,China,Asia,28,38,76.7,2.95,0.99,912.1,2023,8,35,High
+2023-08-28,2023,Long Beach,USA,NorthAmerica,11,3,10.2,1.14,0.878,112.4,2023,8,35,Low
+2023-08-28,2023,Ningbo,China,Asia,30,24,43.3,1.54,0.99,526.3,2023,8,35,Medium
+2023-08-28,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,2,15.9,1.14,0.922,190.3,2023,8,35,Low
+2023-08-28,2023,Hamburg,Germany,Europe,9,10,16.3,2.04,0.99,199.2,2023,8,35,Medium
+2023-08-28,2023,Qingdao,China,Asia,24,11,28.7,1.3,0.99,334.7,2023,8,35,Medium
+2023-08-28,2023,Los Angeles,USA,NorthAmerica,12,5,12.0,1.2,0.937,129.8,2023,8,35,Low
+2023-08-28,2023,Antwerp,Belgium,Europe,12,5,12.1,1.1,0.798,141.7,2023,8,35,Low
+2023-08-28,2023,New York,USA,NorthAmerica,7,0,7.5,1.25,0.978,85.7,2023,8,35,Medium
+2023-08-28,2023,Singapore,Singapore,Asia,40,22,42.9,1.13,0.821,515.6,2023,8,35,Low
+2023-08-28,2023,Laem Chabang,Thailand,Asia,8,2,6.3,0.9,0.72,81.4,2023,8,35,Low
+2023-08-28,2023,Tanjung Pelepas,Malaysia,Asia,10,8,21.3,2.36,0.99,262.1,2023,8,35,Medium
+2023-08-28,2023,Felixstowe,UK,Europe,4,1,3.1,1.05,0.851,55.0,2023,8,35,Low
+2023-08-28,2023,Rotterdam,Netherlands,Europe,14,7,11.0,0.91,0.757,130.8,2023,8,35,Low
+2023-08-28,2023,Hong Kong,China,Asia,18,11,21.3,1.52,0.99,245.4,2023,8,35,Medium
+2023-08-28,2023,Colombo,SriLanka,Asia,7,2,6.0,1.01,0.829,63.3,2023,8,35,Low
+2023-08-28,2023,Guangzhou,China,Asia,22,10,34.1,1.7,0.99,402.4,2023,8,35,Medium
+2023-08-28,2023,Tanjung Priok,Indonesia,Asia,7,5,7.9,1.31,0.99,97.9,2023,8,35,Medium
+2023-08-28,2023,Shanghai,China,Asia,95,29,102.1,2.27,0.99,1226.7,2023,8,35,Medium
+2023-08-28,2023,Busan,SouthKorea,Asia,22,17,31.9,1.77,0.99,383.1,2023,8,35,Medium
+2023-09-04,2023,Guangzhou,China,Asia,22,13,25.7,1.28,0.99,310.9,2023,9,36,Medium
+2023-09-04,2023,Laem Chabang,Thailand,Asia,8,5,6.7,0.95,0.703,79.0,2023,9,36,Low
+2023-09-04,2023,Hamburg,Germany,Europe,9,4,10.6,1.32,0.99,135.7,2023,9,36,Medium
+2023-09-04,2023,New York,USA,NorthAmerica,7,2,5.1,0.85,0.645,71.1,2023,9,36,Low
+2023-09-04,2023,Colombo,SriLanka,Asia,7,1,10.5,1.76,0.99,114.4,2023,9,36,Medium
+2023-09-04,2023,Qingdao,China,Asia,24,21,33.8,1.54,0.99,398.3,2023,9,36,Medium
+2023-09-04,2023,Hong Kong,China,Asia,18,20,29.6,2.11,0.99,347.4,2023,9,36,Medium
+2023-09-04,2023,Los Angeles,USA,NorthAmerica,12,8,12.7,1.27,0.979,151.1,2023,9,36,Medium
+2023-09-04,2023,Singapore,Singapore,Asia,40,15,40.6,1.07,0.876,491.2,2023,9,36,Low
+2023-09-04,2023,Felixstowe,UK,Europe,4,0,4.8,1.59,0.99,65.8,2023,9,36,Medium
+2023-09-04,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,20,31.9,2.28,0.99,381.4,2023,9,36,Medium
+2023-09-04,2023,Shenzhen,China,Asia,28,38,54.7,2.1,0.99,657.9,2023,9,36,Medium
+2023-09-04,2023,Tanjung Pelepas,Malaysia,Asia,10,10,15.3,1.7,0.99,187.7,2023,9,36,Medium
+2023-09-04,2023,Tanjung Priok,Indonesia,Asia,7,5,8.7,1.44,0.99,90.8,2023,9,36,Medium
+2023-09-04,2023,Busan,SouthKorea,Asia,22,16,41.1,2.29,0.99,502.4,2023,9,36,Medium
+2023-09-04,2023,Shanghai,China,Asia,95,28,41.0,0.91,0.762,485.3,2023,9,36,Low
+2023-09-04,2023,Rotterdam,Netherlands,Europe,14,6,17.9,1.49,0.99,223.3,2023,9,36,Medium
+2023-09-04,2023,Long Beach,USA,NorthAmerica,11,6,9.6,1.06,0.854,106.2,2023,9,36,Low
+2023-09-04,2023,Ningbo,China,Asia,30,25,45.2,1.62,0.99,545.9,2023,9,36,Medium
+2023-09-04,2023,Antwerp,Belgium,Europe,12,2,20.8,1.89,0.99,244.9,2023,9,36,Medium
+2023-09-11,2023,Tanjung Priok,Indonesia,Asia,7,4,8.0,1.33,0.99,92.4,2023,9,37,Medium
+2023-09-11,2023,Singapore,Singapore,Asia,40,3,59.1,1.56,0.99,700.0,2023,9,37,Medium
+2023-09-11,2023,Guangzhou,China,Asia,22,6,28.9,1.45,0.99,351.3,2023,9,37,Medium
+2023-09-11,2023,Rotterdam,Netherlands,Europe,14,11,17.8,1.49,0.99,205.7,2023,9,37,Medium
+2023-09-11,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,4,14.4,1.03,0.747,179.9,2023,9,37,Low
+2023-09-11,2023,Ningbo,China,Asia,30,15,37.2,1.33,0.99,433.7,2023,9,37,Medium
+2023-09-11,2023,New York,USA,NorthAmerica,7,4,7.1,1.18,0.975,79.9,2023,9,37,Low
+2023-09-11,2023,Qingdao,China,Asia,24,7,30.7,1.4,0.99,380.5,2023,9,37,Medium
+2023-09-11,2023,Hamburg,Germany,Europe,9,10,10.6,1.33,0.99,116.2,2023,9,37,Medium
+2023-09-11,2023,Tanjung Pelepas,Malaysia,Asia,10,2,9.4,1.04,0.809,106.0,2023,9,37,Low
+2023-09-11,2023,Shenzhen,China,Asia,28,13,48.0,1.85,0.99,578.5,2023,9,37,Medium
+2023-09-11,2023,Los Angeles,USA,NorthAmerica,12,6,14.1,1.41,0.99,168.4,2023,9,37,Medium
+2023-09-11,2023,Busan,SouthKorea,Asia,22,9,32.6,1.81,0.99,387.0,2023,9,37,Medium
+2023-09-11,2023,Colombo,SriLanka,Asia,7,5,8.3,1.39,0.99,109.8,2023,9,37,Medium
+2023-09-11,2023,Antwerp,Belgium,Europe,12,8,24.5,2.23,0.99,285.9,2023,9,37,Medium
+2023-09-11,2023,Shanghai,China,Asia,95,4,60.6,1.35,0.99,735.7,2023,9,37,Medium
+2023-09-11,2023,Felixstowe,UK,Europe,4,0,2.5,0.82,0.618,36.1,2023,9,37,Low
+2023-09-11,2023,Hong Kong,China,Asia,18,5,24.7,1.77,0.99,292.0,2023,9,37,Medium
+2023-09-11,2023,Laem Chabang,Thailand,Asia,8,4,8.2,1.17,0.917,103.8,2023,9,37,Low
+2023-09-11,2023,Long Beach,USA,NorthAmerica,11,8,14.4,1.6,0.99,177.2,2023,9,37,Medium
+2023-09-18,2023,Rotterdam,Netherlands,Europe,14,7,14.1,1.18,0.895,175.6,2023,9,38,Low
+2023-09-18,2023,Colombo,SriLanka,Asia,7,2,10.0,1.67,0.99,126.9,2023,9,38,Medium
+2023-09-18,2023,Shanghai,China,Asia,95,12,54.1,1.2,0.946,644.5,2023,9,38,Low
+2023-09-18,2023,Tanjung Priok,Indonesia,Asia,7,6,7.1,1.18,0.918,104.5,2023,9,38,Low
+2023-09-18,2023,Singapore,Singapore,Asia,40,56,75.2,1.98,0.99,895.2,2023,9,38,Medium
+2023-09-18,2023,Long Beach,USA,NorthAmerica,11,9,15.8,1.76,0.99,179.7,2023,9,38,Medium
+2023-09-18,2023,Hamburg,Germany,Europe,9,0,7.0,0.88,0.668,82.4,2023,9,38,Low
+2023-09-18,2023,Hong Kong,China,Asia,18,13,29.1,2.08,0.99,342.8,2023,9,38,Medium
+2023-09-18,2023,Ningbo,China,Asia,30,13,48.0,1.72,0.99,596.9,2023,9,38,Medium
+2023-09-18,2023,Antwerp,Belgium,Europe,12,8,14.9,1.35,0.99,186.5,2023,9,38,Medium
+2023-09-18,2023,Busan,SouthKorea,Asia,22,19,24.7,1.37,0.99,305.4,2023,9,38,Medium
+2023-09-18,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,12,17.2,1.23,0.962,203.6,2023,9,38,Low
+2023-09-18,2023,New York,USA,NorthAmerica,7,7,8.0,1.33,0.99,99.0,2023,9,38,Medium
+2023-09-18,2023,Felixstowe,UK,Europe,4,1,2.2,0.74,0.612,4.1,2023,9,38,Low
+2023-09-18,2023,Tanjung Pelepas,Malaysia,Asia,10,5,15.8,1.76,0.99,182.6,2023,9,38,Medium
+2023-09-18,2023,Laem Chabang,Thailand,Asia,8,8,15.0,2.14,0.99,183.5,2023,9,38,Medium
+2023-09-18,2023,Guangzhou,China,Asia,22,10,32.1,1.6,0.99,374.3,2023,9,38,Medium
+2023-09-18,2023,Los Angeles,USA,NorthAmerica,12,4,17.3,1.73,0.99,196.6,2023,9,38,Medium
+2023-09-18,2023,Qingdao,China,Asia,24,5,29.3,1.33,0.99,349.7,2023,9,38,Medium
+2023-09-18,2023,Shenzhen,China,Asia,28,28,49.6,1.91,0.99,595.5,2023,9,38,Medium
+2023-09-25,2023,Busan,SouthKorea,Asia,22,26,24.9,1.38,0.99,298.3,2023,9,39,Medium
+2023-09-25,2023,New York,USA,NorthAmerica,7,4,7.3,1.22,0.949,73.1,2023,9,39,Low
+2023-09-25,2023,Felixstowe,UK,Europe,4,3,4.9,1.63,0.99,49.3,2023,9,39,Medium
+2023-09-25,2023,Shenzhen,China,Asia,28,0,23.1,0.89,0.726,274.0,2023,9,39,Low
+2023-09-25,2023,Guangzhou,China,Asia,22,10,24.2,1.21,0.895,288.6,2023,9,39,Low
+2023-09-25,2023,Antwerp,Belgium,Europe,12,11,15.9,1.44,0.99,192.6,2023,9,39,Medium
+2023-09-25,2023,Tanjung Priok,Indonesia,Asia,7,3,9.2,1.54,0.99,111.8,2023,9,39,Medium
+2023-09-25,2023,Long Beach,USA,NorthAmerica,11,5,11.8,1.31,0.99,145.0,2023,9,39,Medium
+2023-09-25,2023,Ningbo,China,Asia,30,9,29.7,1.06,0.827,349.8,2023,9,39,Low
+2023-09-25,2023,Laem Chabang,Thailand,Asia,8,10,15.4,2.2,0.99,171.7,2023,9,39,Medium
+2023-09-25,2023,Los Angeles,USA,NorthAmerica,12,8,17.1,1.71,0.99,205.7,2023,9,39,Medium
+2023-09-25,2023,Tanjung Pelepas,Malaysia,Asia,10,5,15.7,1.75,0.99,197.5,2023,9,39,Medium
+2023-09-25,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,8,14.1,1.01,0.777,176.5,2023,9,39,Low
+2023-09-25,2023,Shanghai,China,Asia,95,36,54.0,1.2,0.89,640.7,2023,9,39,Low
+2023-09-25,2023,Colombo,SriLanka,Asia,7,2,11.6,1.93,0.99,123.3,2023,9,39,Medium
+2023-09-25,2023,Hong Kong,China,Asia,18,13,19.0,1.36,0.99,236.7,2023,9,39,Medium
+2023-09-25,2023,Hamburg,Germany,Europe,9,6,12.8,1.6,0.99,154.1,2023,9,39,Medium
+2023-09-25,2023,Rotterdam,Netherlands,Europe,14,3,15.5,1.29,0.99,186.8,2023,9,39,Medium
+2023-09-25,2023,Singapore,Singapore,Asia,40,20,53.3,1.4,0.99,637.3,2023,9,39,Medium
+2023-09-25,2023,Qingdao,China,Asia,24,17,28.6,1.3,0.99,343.5,2023,9,39,Medium
+2023-10-02,2023,Shanghai,China,Asia,95,46,63.1,1.4,0.99,752.2,2023,10,40,Medium
+2023-10-02,2023,Hamburg,Germany,Europe,9,3,10.8,1.35,0.99,117.8,2023,10,40,Medium
+2023-10-02,2023,Felixstowe,UK,Europe,4,0,3.3,1.09,0.836,40.9,2023,10,40,Low
+2023-10-02,2023,Colombo,SriLanka,Asia,7,4,8.9,1.49,0.99,107.4,2023,10,40,Medium
+2023-10-02,2023,Busan,SouthKorea,Asia,22,11,28.1,1.56,0.99,334.7,2023,10,40,Medium
+2023-10-02,2023,Qingdao,China,Asia,24,29,29.2,1.33,0.99,357.7,2023,10,40,Medium
+2023-10-02,2023,Laem Chabang,Thailand,Asia,8,4,10.4,1.49,0.99,124.7,2023,10,40,Medium
+2023-10-02,2023,Long Beach,USA,NorthAmerica,11,8,14.2,1.58,0.99,165.0,2023,10,40,Medium
+2023-10-02,2023,Los Angeles,USA,NorthAmerica,12,2,10.0,1.0,0.721,111.4,2023,10,40,Low
+2023-10-02,2023,Guangzhou,China,Asia,22,1,28.5,1.43,0.99,328.4,2023,10,40,Medium
+2023-10-02,2023,Antwerp,Belgium,Europe,12,12,14.1,1.28,0.99,169.0,2023,10,40,Medium
+2023-10-02,2023,New York,USA,NorthAmerica,7,1,7.4,1.24,0.968,81.6,2023,10,40,Low
+2023-10-02,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,10,15.8,1.13,0.946,191.8,2023,10,40,Low
+2023-10-02,2023,Tanjung Priok,Indonesia,Asia,7,2,11.3,1.89,0.99,138.8,2023,10,40,Medium
+2023-10-02,2023,Tanjung Pelepas,Malaysia,Asia,10,5,10.9,1.21,0.923,134.8,2023,10,40,Low
+2023-10-02,2023,Singapore,Singapore,Asia,40,24,30.8,0.81,0.629,365.9,2023,10,40,Low
+2023-10-02,2023,Shenzhen,China,Asia,28,23,32.9,1.26,0.99,398.8,2023,10,40,Medium
+2023-10-02,2023,Rotterdam,Netherlands,Europe,14,12,20.5,1.71,0.99,248.1,2023,10,40,Medium
+2023-10-02,2023,Ningbo,China,Asia,30,17,47.1,1.68,0.99,555.1,2023,10,40,Medium
+2023-10-02,2023,Hong Kong,China,Asia,18,8,16.7,1.19,0.982,195.1,2023,10,40,Low
+2023-10-09,2023,Qingdao,China,Asia,24,7,30.7,1.39,0.99,369.4,2023,10,41,Medium
+2023-10-09,2023,Hamburg,Germany,Europe,9,5,11.6,1.46,0.99,139.6,2023,10,41,Medium
+2023-10-09,2023,Hong Kong,China,Asia,18,9,21.8,1.56,0.99,262.4,2023,10,41,Medium
+2023-10-09,2023,Antwerp,Belgium,Europe,12,4,13.2,1.2,0.948,165.5,2023,10,41,Low
+2023-10-09,2023,Shenzhen,China,Asia,28,35,56.8,2.19,0.99,683.9,2023,10,41,Medium
+2023-10-09,2023,Rotterdam,Netherlands,Europe,14,4,15.5,1.29,0.99,182.8,2023,10,41,Medium
+2023-10-09,2023,Tanjung Pelepas,Malaysia,Asia,10,4,11.6,1.29,0.99,126.2,2023,10,41,Medium
+2023-10-09,2023,Los Angeles,USA,NorthAmerica,12,6,19.0,1.9,0.99,220.7,2023,10,41,Medium
+2023-10-09,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,14,23.0,1.64,0.99,278.9,2023,10,41,Medium
+2023-10-09,2023,Busan,SouthKorea,Asia,22,2,22.8,1.27,0.985,256.9,2023,10,41,Medium
+2023-10-09,2023,Singapore,Singapore,Asia,40,26,44.6,1.17,0.88,517.0,2023,10,41,Low
+2023-10-09,2023,Ningbo,China,Asia,30,10,24.1,0.86,0.607,300.9,2023,10,41,Low
+2023-10-09,2023,Colombo,SriLanka,Asia,7,4,6.5,1.09,0.853,86.0,2023,10,41,Low
+2023-10-09,2023,Tanjung Priok,Indonesia,Asia,7,5,10.0,1.66,0.99,124.0,2023,10,41,Medium
+2023-10-09,2023,New York,USA,NorthAmerica,7,4,9.1,1.52,0.99,105.6,2023,10,41,Medium
+2023-10-09,2023,Guangzhou,China,Asia,22,24,45.0,2.25,0.99,541.6,2023,10,41,Medium
+2023-10-09,2023,Felixstowe,UK,Europe,4,2,3.0,1.0,0.78,37.9,2023,10,41,Low
+2023-10-09,2023,Long Beach,USA,NorthAmerica,11,9,16.0,1.78,0.99,190.2,2023,10,41,Medium
+2023-10-09,2023,Shanghai,China,Asia,95,23,76.8,1.71,0.99,912.3,2023,10,41,Medium
+2023-10-09,2023,Laem Chabang,Thailand,Asia,8,3,9.7,1.39,0.99,115.1,2023,10,41,Medium
+2023-10-16,2023,Laem Chabang,Thailand,Asia,8,6,11.3,1.61,0.99,143.0,2023,10,42,Medium
+2023-10-16,2023,Hamburg,Germany,Europe,9,4,10.8,1.35,0.99,129.9,2023,10,42,Medium
+2023-10-16,2023,Qingdao,China,Asia,24,11,25.7,1.17,0.873,316.9,2023,10,42,Low
+2023-10-16,2023,Shanghai,China,Asia,95,28,84.7,1.88,0.99,1020.8,2023,10,42,Medium
+2023-10-16,2023,Hong Kong,China,Asia,18,6,15.5,1.11,0.87,185.4,2023,10,42,Low
+2023-10-16,2023,Ningbo,China,Asia,30,6,25.8,0.92,0.735,304.7,2023,10,42,Low
+2023-10-16,2023,Rotterdam,Netherlands,Europe,14,20,24.7,2.06,0.99,299.6,2023,10,42,Medium
+2023-10-16,2023,Shenzhen,China,Asia,28,18,25.5,0.98,0.666,300.7,2023,10,42,Low
+2023-10-16,2023,Antwerp,Belgium,Europe,12,6,12.5,1.14,0.895,153.0,2023,10,42,Low
+2023-10-16,2023,Tanjung Priok,Indonesia,Asia,7,3,5.6,0.93,0.78,68.5,2023,10,42,Low
+2023-10-16,2023,Busan,SouthKorea,Asia,22,12,22.3,1.24,0.969,264.0,2023,10,42,Low
+2023-10-16,2023,Los Angeles,USA,NorthAmerica,12,3,16.3,1.63,0.99,196.3,2023,10,42,Medium
+2023-10-16,2023,Colombo,SriLanka,Asia,7,6,12.1,2.01,0.99,135.5,2023,10,42,Medium
+2023-10-16,2023,Guangzhou,China,Asia,22,23,31.4,1.57,0.99,387.3,2023,10,42,Medium
+2023-10-16,2023,New York,USA,NorthAmerica,7,7,9.5,1.58,0.99,104.7,2023,10,42,Medium
+2023-10-16,2023,Tanjung Pelepas,Malaysia,Asia,10,7,11.9,1.32,0.99,150.7,2023,10,42,Medium
+2023-10-16,2023,Singapore,Singapore,Asia,40,35,56.8,1.49,0.99,672.3,2023,10,42,Medium
+2023-10-16,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,11,22.5,1.61,0.99,260.5,2023,10,42,Medium
+2023-10-16,2023,Long Beach,USA,NorthAmerica,11,3,7.9,0.87,0.673,89.7,2023,10,42,Low
+2023-10-16,2023,Felixstowe,UK,Europe,4,2,3.7,1.22,0.99,40.7,2023,10,42,Low
+2023-10-23,2023,Los Angeles,USA,NorthAmerica,12,15,24.2,2.42,0.99,295.4,2023,10,43,Medium
+2023-10-23,2023,New York,USA,NorthAmerica,7,6,13.2,2.2,0.99,152.4,2023,10,43,Medium
+2023-10-23,2023,Long Beach,USA,NorthAmerica,11,3,18.1,2.01,0.99,234.1,2023,10,43,Medium
+2023-10-23,2023,Laem Chabang,Thailand,Asia,8,5,10.9,1.55,0.99,134.4,2023,10,43,Medium
+2023-10-23,2023,Rotterdam,Netherlands,Europe,14,2,15.8,1.32,0.99,191.0,2023,10,43,Medium
+2023-10-23,2023,Antwerp,Belgium,Europe,12,2,9.7,0.88,0.632,116.5,2023,10,43,Low
+2023-10-23,2023,Busan,SouthKorea,Asia,22,7,23.8,1.32,0.99,285.9,2023,10,43,Medium
+2023-10-23,2023,Tanjung Pelepas,Malaysia,Asia,10,4,11.1,1.23,0.913,129.4,2023,10,43,Low
+2023-10-23,2023,Shenzhen,China,Asia,28,10,35.3,1.36,0.99,438.3,2023,10,43,Medium
+2023-10-23,2023,Guangzhou,China,Asia,22,17,36.9,1.84,0.99,417.5,2023,10,43,Medium
+2023-10-23,2023,Ningbo,China,Asia,30,26,25.9,0.92,0.68,308.7,2023,10,43,Low
+2023-10-23,2023,Hamburg,Germany,Europe,9,10,17.7,2.21,0.99,210.9,2023,10,43,Medium
+2023-10-23,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,6,25.9,1.85,0.99,314.6,2023,10,43,Medium
+2023-10-23,2023,Felixstowe,UK,Europe,4,3,4.9,1.63,0.99,72.2,2023,10,43,Medium
+2023-10-23,2023,Shanghai,China,Asia,95,17,47.1,1.05,0.848,573.8,2023,10,43,Low
+2023-10-23,2023,Hong Kong,China,Asia,18,21,28.0,2.0,0.99,329.9,2023,10,43,Medium
+2023-10-23,2023,Tanjung Priok,Indonesia,Asia,7,2,5.8,0.97,0.781,84.4,2023,10,43,Low
+2023-10-23,2023,Colombo,SriLanka,Asia,7,11,12.4,2.06,0.99,149.1,2023,10,43,Medium
+2023-10-23,2023,Singapore,Singapore,Asia,40,7,52.4,1.38,0.99,623.4,2023,10,43,Medium
+2023-10-23,2023,Qingdao,China,Asia,24,19,35.2,1.6,0.99,417.3,2023,10,43,Medium
+2023-10-30,2023,Los Angeles,USA,NorthAmerica,12,2,23.0,2.3,0.99,274.6,2023,10,44,Medium
+2023-10-30,2023,Shanghai,China,Asia,95,30,59.7,1.33,0.99,717.2,2023,10,44,Medium
+2023-10-30,2023,Guangzhou,China,Asia,22,12,19.8,0.99,0.819,243.2,2023,10,44,Low
+2023-10-30,2023,Hamburg,Germany,Europe,9,4,12.4,1.55,0.99,149.3,2023,10,44,Medium
+2023-10-30,2023,Hong Kong,China,Asia,18,15,15.4,1.1,0.816,185.5,2023,10,44,Low
+2023-10-30,2023,Rotterdam,Netherlands,Europe,14,10,17.2,1.43,0.99,200.3,2023,10,44,Medium
+2023-10-30,2023,Antwerp,Belgium,Europe,12,4,11.9,1.08,0.793,139.0,2023,10,44,Low
+2023-10-30,2023,Tanjung Priok,Indonesia,Asia,7,2,5.0,0.83,0.608,63.7,2023,10,44,Low
+2023-10-30,2023,Busan,SouthKorea,Asia,22,10,19.4,1.08,0.851,231.5,2023,10,44,Low
+2023-10-30,2023,Long Beach,USA,NorthAmerica,11,7,15.9,1.77,0.99,179.9,2023,10,44,Medium
+2023-10-30,2023,Qingdao,China,Asia,24,2,17.4,0.79,0.588,202.1,2023,10,44,Low
+2023-10-30,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,8,23.8,1.7,0.99,288.3,2023,10,44,Medium
+2023-10-30,2023,Felixstowe,UK,Europe,4,1,3.4,1.13,0.847,46.3,2023,10,44,Low
+2023-10-30,2023,Tanjung Pelepas,Malaysia,Asia,10,11,19.9,2.21,0.99,230.3,2023,10,44,Medium
+2023-10-30,2023,Shenzhen,China,Asia,28,15,46.3,1.78,0.99,544.8,2023,10,44,Medium
+2023-10-30,2023,Laem Chabang,Thailand,Asia,8,3,7.5,1.07,0.853,100.9,2023,10,44,Low
+2023-10-30,2023,Singapore,Singapore,Asia,40,25,63.3,1.67,0.99,775.8,2023,10,44,Medium
+2023-10-30,2023,New York,USA,NorthAmerica,7,7,8.5,1.42,0.99,111.1,2023,10,44,Medium
+2023-10-30,2023,Ningbo,China,Asia,30,24,35.9,1.28,0.99,423.8,2023,10,44,Medium
+2023-10-30,2023,Colombo,SriLanka,Asia,7,8,9.9,1.65,0.99,119.4,2023,10,44,Medium
+2023-11-06,2023,Busan,SouthKorea,Asia,22,20,44.5,2.47,0.99,530.7,2023,11,45,Medium
+2023-11-06,2023,Hong Kong,China,Asia,18,8,20.7,1.48,0.99,241.9,2023,11,45,Medium
+2023-11-06,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,3,17.6,1.25,0.99,204.5,2023,11,45,Medium
+2023-11-06,2023,Shenzhen,China,Asia,28,18,41.9,1.61,0.99,503.1,2023,11,45,Medium
+2023-11-06,2023,Shanghai,China,Asia,95,13,44.0,0.98,0.771,537.2,2023,11,45,Low
+2023-11-06,2023,Ningbo,China,Asia,30,15,34.8,1.24,0.99,408.7,2023,11,45,Low
+2023-11-06,2023,Qingdao,China,Asia,24,22,31.9,1.45,0.99,394.4,2023,11,45,Medium
+2023-11-06,2023,Singapore,Singapore,Asia,40,32,56.0,1.47,0.99,667.5,2023,11,45,Medium
+2023-11-06,2023,Laem Chabang,Thailand,Asia,8,4,15.0,2.14,0.99,182.3,2023,11,45,Medium
+2023-11-06,2023,Colombo,SriLanka,Asia,7,2,6.1,1.02,0.86,82.3,2023,11,45,Low
+2023-11-06,2023,Tanjung Priok,Indonesia,Asia,7,4,9.4,1.56,0.99,121.7,2023,11,45,Medium
+2023-11-06,2023,Long Beach,USA,NorthAmerica,11,3,11.0,1.22,0.921,128.9,2023,11,45,Low
+2023-11-06,2023,Antwerp,Belgium,Europe,12,7,11.2,1.02,0.814,135.7,2023,11,45,Low
+2023-11-06,2023,Guangzhou,China,Asia,22,26,26.5,1.32,0.99,314.7,2023,11,45,Medium
+2023-11-06,2023,Rotterdam,Netherlands,Europe,14,11,13.7,1.14,0.918,160.7,2023,11,45,Low
+2023-11-06,2023,Felixstowe,UK,Europe,4,1,3.8,1.26,0.99,59.9,2023,11,45,Medium
+2023-11-06,2023,Los Angeles,USA,NorthAmerica,12,5,12.2,1.22,0.896,157.2,2023,11,45,Low
+2023-11-06,2023,Tanjung Pelepas,Malaysia,Asia,10,2,8.1,0.91,0.736,94.3,2023,11,45,Low
+2023-11-06,2023,Hamburg,Germany,Europe,9,6,11.7,1.46,0.99,141.3,2023,11,45,Medium
+2023-11-06,2023,New York,USA,NorthAmerica,7,1,8.2,1.36,0.99,89.0,2023,11,45,Medium
+2023-11-13,2023,Laem Chabang,Thailand,Asia,8,2,10.0,1.43,0.99,125.3,2023,11,46,Medium
+2023-11-13,2023,Colombo,SriLanka,Asia,7,0,8.4,1.4,0.99,101.3,2023,11,46,Medium
+2023-11-13,2023,Guangzhou,China,Asia,22,10,46.6,2.33,0.99,555.6,2023,11,46,Medium
+2023-11-13,2023,Hamburg,Germany,Europe,9,9,16.0,2.0,0.99,192.2,2023,11,46,Medium
+2023-11-13,2023,Qingdao,China,Asia,24,11,24.4,1.11,0.864,301.8,2023,11,46,Low
+2023-11-13,2023,Tanjung Priok,Indonesia,Asia,7,1,7.8,1.3,0.99,99.9,2023,11,46,Medium
+2023-11-13,2023,Antwerp,Belgium,Europe,12,0,13.8,1.25,0.958,159.1,2023,11,46,Medium
+2023-11-13,2023,New York,USA,NorthAmerica,7,6,8.6,1.43,0.99,100.2,2023,11,46,Medium
+2023-11-13,2023,Shanghai,China,Asia,95,63,91.0,2.02,0.99,1097.8,2023,11,46,Medium
+2023-11-13,2023,Tanjung Pelepas,Malaysia,Asia,10,2,9.6,1.06,0.855,114.1,2023,11,46,Low
+2023-11-13,2023,Los Angeles,USA,NorthAmerica,12,4,9.5,0.95,0.78,113.3,2023,11,46,Low
+2023-11-13,2023,Ningbo,China,Asia,30,19,62.6,2.24,0.99,741.9,2023,11,46,Medium
+2023-11-13,2023,Felixstowe,UK,Europe,4,0,3.7,1.24,0.99,48.5,2023,11,46,Low
+2023-11-13,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,6,14.7,1.05,0.871,159.6,2023,11,46,Low
+2023-11-13,2023,Shenzhen,China,Asia,28,29,39.2,1.51,0.99,467.0,2023,11,46,Medium
+2023-11-13,2023,Long Beach,USA,NorthAmerica,11,7,11.8,1.32,0.977,136.6,2023,11,46,Medium
+2023-11-13,2023,Hong Kong,China,Asia,18,5,16.5,1.18,0.972,197.7,2023,11,46,Low
+2023-11-13,2023,Rotterdam,Netherlands,Europe,14,7,15.8,1.31,0.99,193.0,2023,11,46,Medium
+2023-11-13,2023,Busan,SouthKorea,Asia,22,12,19.1,1.06,0.799,224.2,2023,11,46,Low
+2023-11-13,2023,Singapore,Singapore,Asia,40,22,29.7,0.78,0.627,354.9,2023,11,46,Low
+2023-11-20,2023,Los Angeles,USA,NorthAmerica,12,1,10.6,1.06,0.815,120.7,2023,11,47,Low
+2023-11-20,2023,Singapore,Singapore,Asia,40,33,49.6,1.3,0.955,590.1,2023,11,47,Medium
+2023-11-20,2023,Tanjung Priok,Indonesia,Asia,7,3,9.3,1.55,0.99,128.2,2023,11,47,Medium
+2023-11-20,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,6,25.3,1.81,0.99,298.4,2023,11,47,Medium
+2023-11-20,2023,Hong Kong,China,Asia,18,8,16.6,1.18,0.95,196.2,2023,11,47,Low
+2023-11-20,2023,Rotterdam,Netherlands,Europe,14,16,30.5,2.54,0.99,352.8,2023,11,47,Medium
+2023-11-20,2023,Ningbo,China,Asia,30,7,27.3,0.98,0.722,324.5,2023,11,47,Low
+2023-11-20,2023,Antwerp,Belgium,Europe,12,10,15.8,1.44,0.99,199.6,2023,11,47,Medium
+2023-11-20,2023,Guangzhou,China,Asia,22,9,22.3,1.12,0.903,267.7,2023,11,47,Low
+2023-11-20,2023,Laem Chabang,Thailand,Asia,8,1,6.9,0.99,0.748,81.7,2023,11,47,Low
+2023-11-20,2023,Colombo,SriLanka,Asia,7,3,7.7,1.28,0.99,87.8,2023,11,47,Medium
+2023-11-20,2023,Long Beach,USA,NorthAmerica,11,5,11.7,1.3,0.99,141.9,2023,11,47,Medium
+2023-11-20,2023,Tanjung Pelepas,Malaysia,Asia,10,4,10.4,1.15,0.988,134.4,2023,11,47,Low
+2023-11-20,2023,Hamburg,Germany,Europe,9,4,13.7,1.72,0.99,159.1,2023,11,47,Medium
+2023-11-20,2023,Shenzhen,China,Asia,28,28,57.7,2.22,0.99,687.7,2023,11,47,Medium
+2023-11-20,2023,Busan,SouthKorea,Asia,22,5,21.2,1.18,0.85,251.2,2023,11,47,Low
+2023-11-20,2023,Felixstowe,UK,Europe,4,2,4.5,1.5,0.99,50.7,2023,11,47,Medium
+2023-11-20,2023,Shanghai,China,Asia,95,23,51.4,1.14,0.858,607.0,2023,11,47,Low
+2023-11-20,2023,Qingdao,China,Asia,24,16,30.5,1.39,0.99,358.7,2023,11,47,Medium
+2023-11-20,2023,New York,USA,NorthAmerica,7,3,6.6,1.11,0.815,70.7,2023,11,47,Low
+2023-11-27,2023,Tanjung Priok,Indonesia,Asia,7,4,7.9,1.31,0.979,88.5,2023,11,48,Medium
+2023-11-27,2023,Qingdao,China,Asia,24,0,39.1,1.78,0.99,472.7,2023,11,48,Medium
+2023-11-27,2023,Shenzhen,China,Asia,28,5,41.7,1.6,0.99,490.8,2023,11,48,Medium
+2023-11-27,2023,Singapore,Singapore,Asia,40,36,38.6,1.02,0.828,445.7,2023,11,48,Low
+2023-11-27,2023,Long Beach,USA,NorthAmerica,11,4,8.1,0.9,0.725,96.4,2023,11,48,Low
+2023-11-27,2023,Guangzhou,China,Asia,22,13,26.9,1.35,0.958,311.2,2023,11,48,Medium
+2023-11-27,2023,Colombo,SriLanka,Asia,7,3,8.1,1.35,0.99,111.8,2023,11,48,Medium
+2023-11-27,2023,Busan,SouthKorea,Asia,22,16,30.2,1.68,0.99,368.7,2023,11,48,Medium
+2023-11-27,2023,Rotterdam,Netherlands,Europe,14,11,14.3,1.2,0.949,137.1,2023,11,48,Low
+2023-11-27,2023,Tanjung Pelepas,Malaysia,Asia,10,1,17.5,1.95,0.99,205.3,2023,11,48,Medium
+2023-11-27,2023,Ningbo,China,Asia,30,19,29.6,1.06,0.793,347.9,2023,11,48,Low
+2023-11-27,2023,Hong Kong,China,Asia,18,4,23.7,1.69,0.99,284.1,2023,11,48,Medium
+2023-11-27,2023,Laem Chabang,Thailand,Asia,8,4,11.2,1.61,0.99,152.8,2023,11,48,Medium
+2023-11-27,2023,Shanghai,China,Asia,95,36,66.0,1.47,0.99,796.7,2023,11,48,Medium
+2023-11-27,2023,Felixstowe,UK,Europe,4,1,4.8,1.6,0.99,57.7,2023,11,48,Medium
+2023-11-27,2023,Antwerp,Belgium,Europe,12,4,12.9,1.17,0.955,155.9,2023,11,48,Low
+2023-11-27,2023,New York,USA,NorthAmerica,7,4,10.1,1.69,0.99,120.4,2023,11,48,Medium
+2023-11-27,2023,Los Angeles,USA,NorthAmerica,12,2,14.2,1.42,0.99,171.4,2023,11,48,Medium
+2023-11-27,2023,Hamburg,Germany,Europe,9,5,12.1,1.51,0.99,143.4,2023,11,48,Medium
+2023-11-27,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,16,31.1,2.22,0.99,370.7,2023,11,48,Medium
+2023-12-04,2023,Long Beach,USA,NorthAmerica,11,8,9.0,1.0,0.735,112.9,2023,12,49,Low
+2023-12-04,2023,Tanjung Priok,Indonesia,Asia,7,3,6.2,1.03,0.791,77.3,2023,12,49,Low
+2023-12-04,2023,Laem Chabang,Thailand,Asia,8,2,7.4,1.06,0.856,97.2,2023,12,49,Low
+2023-12-04,2023,Singapore,Singapore,Asia,40,16,35.1,0.92,0.702,411.0,2023,12,49,Low
+2023-12-04,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,10,19.3,1.38,0.99,231.9,2023,12,49,Medium
+2023-12-04,2023,Colombo,SriLanka,Asia,7,0,7.2,1.2,0.99,79.5,2023,12,49,Low
+2023-12-04,2023,Tanjung Pelepas,Malaysia,Asia,10,10,13.9,1.55,0.99,160.0,2023,12,49,Medium
+2023-12-04,2023,Shanghai,China,Asia,95,41,64.5,1.43,0.99,777.8,2023,12,49,Medium
+2023-12-04,2023,Shenzhen,China,Asia,28,24,30.2,1.16,0.881,367.8,2023,12,49,Low
+2023-12-04,2023,New York,USA,NorthAmerica,7,5,9.7,1.62,0.99,110.9,2023,12,49,Medium
+2023-12-04,2023,Guangzhou,China,Asia,22,7,24.5,1.23,0.947,305.4,2023,12,49,Low
+2023-12-04,2023,Qingdao,China,Asia,24,7,24.6,1.12,0.949,306.9,2023,12,49,Low
+2023-12-04,2023,Rotterdam,Netherlands,Europe,14,18,19.2,1.6,0.99,242.2,2023,12,49,Medium
+2023-12-04,2023,Hong Kong,China,Asia,18,6,18.7,1.33,0.99,210.7,2023,12,49,Medium
+2023-12-04,2023,Busan,SouthKorea,Asia,22,26,27.7,1.54,0.99,332.9,2023,12,49,Medium
+2023-12-04,2023,Felixstowe,UK,Europe,4,2,3.1,1.04,0.832,40.0,2023,12,49,Low
+2023-12-04,2023,Los Angeles,USA,NorthAmerica,12,12,14.2,1.42,0.99,164.0,2023,12,49,Medium
+2023-12-04,2023,Hamburg,Germany,Europe,9,3,8.9,1.11,0.926,110.1,2023,12,49,Low
+2023-12-04,2023,Ningbo,China,Asia,30,25,34.3,1.22,0.963,410.3,2023,12,49,Low
+2023-12-04,2023,Antwerp,Belgium,Europe,12,13,14.0,1.27,0.99,166.0,2023,12,49,Medium
+2023-12-11,2023,Los Angeles,USA,NorthAmerica,12,5,11.8,1.18,0.915,134.6,2023,12,50,Low
+2023-12-11,2023,Long Beach,USA,NorthAmerica,11,8,12.8,1.42,0.99,157.8,2023,12,50,Medium
+2023-12-11,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,5,13.4,0.96,0.77,155.4,2023,12,50,Low
+2023-12-11,2023,Hong Kong,China,Asia,18,10,15.6,1.12,0.832,175.0,2023,12,50,Low
+2023-12-11,2023,Guangzhou,China,Asia,22,4,26.5,1.32,0.99,331.7,2023,12,50,Medium
+2023-12-11,2023,Shanghai,China,Asia,95,30,50.7,1.13,0.905,602.6,2023,12,50,Low
+2023-12-11,2023,Laem Chabang,Thailand,Asia,8,9,10.5,1.5,0.99,110.0,2023,12,50,Medium
+2023-12-11,2023,New York,USA,NorthAmerica,7,4,7.7,1.29,0.99,91.6,2023,12,50,Medium
+2023-12-11,2023,Ningbo,China,Asia,30,5,26.4,0.94,0.685,327.4,2023,12,50,Low
+2023-12-11,2023,Felixstowe,UK,Europe,4,0,4.7,1.55,0.99,43.6,2023,12,50,Medium
+2023-12-11,2023,Shenzhen,China,Asia,28,25,51.3,1.97,0.99,619.7,2023,12,50,Medium
+2023-12-11,2023,Tanjung Pelepas,Malaysia,Asia,10,6,10.3,1.14,0.921,124.7,2023,12,50,Low
+2023-12-11,2023,Hamburg,Germany,Europe,9,6,7.8,0.98,0.727,99.8,2023,12,50,Low
+2023-12-11,2023,Busan,SouthKorea,Asia,22,21,24.2,1.35,0.99,285.5,2023,12,50,Medium
+2023-12-11,2023,Singapore,Singapore,Asia,40,48,83.4,2.2,0.99,995.4,2023,12,50,Medium
+2023-12-11,2023,Tanjung Priok,Indonesia,Asia,7,2,6.5,1.08,0.804,79.3,2023,12,50,Low
+2023-12-11,2023,Rotterdam,Netherlands,Europe,14,5,8.1,0.68,0.526,78.4,2023,12,50,Low
+2023-12-11,2023,Antwerp,Belgium,Europe,12,10,12.5,1.14,0.895,150.3,2023,12,50,Low
+2023-12-11,2023,Colombo,SriLanka,Asia,7,3,10.1,1.69,0.99,121.3,2023,12,50,Medium
+2023-12-11,2023,Qingdao,China,Asia,24,15,28.8,1.31,0.99,347.0,2023,12,50,Medium
+2023-12-18,2023,Qingdao,China,Asia,24,12,25.1,1.14,0.962,300.3,2023,12,51,Low
+2023-12-18,2023,Shanghai,China,Asia,95,21,61.5,1.37,0.99,729.4,2023,12,51,Medium
+2023-12-18,2023,Los Angeles,USA,NorthAmerica,12,2,8.1,0.81,0.649,98.8,2023,12,51,Low
+2023-12-18,2023,Hamburg,Germany,Europe,9,8,12.4,1.55,0.99,142.2,2023,12,51,Medium
+2023-12-18,2023,Busan,SouthKorea,Asia,22,8,28.1,1.56,0.99,341.0,2023,12,51,Medium
+2023-12-18,2023,Felixstowe,UK,Europe,4,2,4.2,1.39,0.99,59.6,2023,12,51,Medium
+2023-12-18,2023,Guangzhou,China,Asia,22,25,39.6,1.98,0.99,477.7,2023,12,51,Medium
+2023-12-18,2023,Tanjung Priok,Indonesia,Asia,7,2,5.4,0.9,0.689,66.1,2023,12,51,Low
+2023-12-18,2023,Singapore,Singapore,Asia,40,24,61.4,1.62,0.99,742.2,2023,12,51,Medium
+2023-12-18,2023,Rotterdam,Netherlands,Europe,14,14,18.1,1.51,0.99,222.0,2023,12,51,Medium
+2023-12-18,2023,Long Beach,USA,NorthAmerica,11,8,10.6,1.17,0.89,128.1,2023,12,51,Low
+2023-12-18,2023,Shenzhen,China,Asia,28,24,36.1,1.39,0.99,428.5,2023,12,51,Medium
+2023-12-18,2023,Hong Kong,China,Asia,18,6,15.1,1.08,0.825,179.6,2023,12,51,Low
+2023-12-18,2023,Colombo,SriLanka,Asia,7,4,10.4,1.73,0.99,126.9,2023,12,51,Medium
+2023-12-18,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,11,22.4,1.6,0.99,277.9,2023,12,51,Medium
+2023-12-18,2023,Tanjung Pelepas,Malaysia,Asia,10,6,12.5,1.39,0.99,156.3,2023,12,51,Medium
+2023-12-18,2023,Antwerp,Belgium,Europe,12,12,17.6,1.6,0.99,218.1,2023,12,51,Medium
+2023-12-18,2023,Laem Chabang,Thailand,Asia,8,3,9.7,1.38,0.99,123.9,2023,12,51,Medium
+2023-12-18,2023,New York,USA,NorthAmerica,7,4,8.2,1.37,0.99,107.2,2023,12,51,Medium
+2023-12-18,2023,Ningbo,China,Asia,30,12,43.2,1.54,0.99,511.3,2023,12,51,Medium
+2023-12-25,2023,Colombo,SriLanka,Asia,7,0,7.4,1.23,0.933,111.3,2023,12,52,Low
+2023-12-25,2023,Laem Chabang,Thailand,Asia,8,5,6.4,0.91,0.745,73.6,2023,12,52,Low
+2023-12-25,2023,Shenzhen,China,Asia,28,6,27.6,1.06,0.868,340.4,2023,12,52,Low
+2023-12-25,2023,Shanghai,China,Asia,95,63,83.4,1.85,0.99,1016.0,2023,12,52,Medium
+2023-12-25,2023,Antwerp,Belgium,Europe,12,10,16.6,1.51,0.99,213.9,2023,12,52,Medium
+2023-12-25,2023,Busan,SouthKorea,Asia,22,14,23.2,1.29,0.945,279.4,2023,12,52,Medium
+2023-12-25,2023,Tanjung Pelepas,Malaysia,Asia,10,7,14.2,1.58,0.99,170.0,2023,12,52,Medium
+2023-12-25,2023,Guangzhou,China,Asia,22,15,29.7,1.49,0.99,353.7,2023,12,52,Medium
+2023-12-25,2023,Long Beach,USA,NorthAmerica,11,2,8.8,0.98,0.764,108.5,2023,12,52,Low
+2023-12-25,2023,Felixstowe,UK,Europe,4,0,2.8,0.93,0.741,35.5,2023,12,52,Low
+2023-12-25,2023,Qingdao,China,Asia,24,3,22.9,1.04,0.815,268.1,2023,12,52,Low
+2023-12-25,2023,Hong Kong,China,Asia,18,19,24.5,1.75,0.99,280.6,2023,12,52,Medium
+2023-12-25,2023,Rotterdam,Netherlands,Europe,14,0,14.6,1.22,0.978,189.4,2023,12,52,Low
+2023-12-25,2023,Singapore,Singapore,Asia,40,30,34.1,0.9,0.708,419.9,2023,12,52,Low
+2023-12-25,2023,Tanjung Priok,Indonesia,Asia,7,3,5.4,0.89,0.685,66.0,2023,12,52,Low
+2023-12-25,2023,New York,USA,NorthAmerica,7,3,7.2,1.2,0.851,84.4,2023,12,52,Low
+2023-12-25,2023,Hamburg,Germany,Europe,9,10,12.6,1.57,0.99,145.0,2023,12,52,Medium
+2023-12-25,2023,Los Angeles,USA,NorthAmerica,12,18,18.2,1.82,0.99,229.7,2023,12,52,Medium
+2023-12-25,2023,Ningbo,China,Asia,30,18,30.3,1.08,0.832,380.1,2023,12,52,Low
+2023-12-25,2023,Dubai (Jebel Ali),UAE,MiddleEast,15,4,12.2,0.87,0.731,161.5,2023,12,52,Low
+2024-01-01,2024,Shenzhen,China,Asia,28,0,30.7,1.18,0.894,372.6,2024,1,1,Low
+2024-01-01,2024,Hamburg,Germany,Europe,9,2,16.0,2.0,0.99,180.7,2024,1,1,Medium
+2024-01-01,2024,Long Beach,USA,NorthAmerica,11,4,7.9,0.88,0.655,105.5,2024,1,1,Low
+2024-01-01,2024,Rotterdam,Netherlands,Europe,14,2,21.5,1.79,0.99,245.7,2024,1,1,Medium
+2024-01-01,2024,Ningbo,China,Asia,30,42,51.7,1.85,0.99,616.6,2024,1,1,Medium
+2024-01-01,2024,Antwerp,Belgium,Europe,12,2,17.3,1.57,0.99,203.2,2024,1,1,Medium
+2024-01-01,2024,Tanjung Priok,Indonesia,Asia,7,0,5.1,0.85,0.644,71.9,2024,1,1,Low
+2024-01-01,2024,Guangzhou,China,Asia,22,4,23.0,1.15,0.952,283.1,2024,1,1,Low
+2024-01-01,2024,Busan,SouthKorea,Asia,22,26,21.6,1.2,0.944,254.9,2024,1,1,Low
+2024-01-01,2024,Tanjung Pelepas,Malaysia,Asia,10,3,10.0,1.11,0.888,114.2,2024,1,1,Low
+2024-01-01,2024,Singapore,Singapore,Asia,40,10,39.2,1.03,0.758,472.4,2024,1,1,Low
+2024-01-01,2024,Laem Chabang,Thailand,Asia,8,7,9.3,1.32,0.954,114.7,2024,1,1,Medium
+2024-01-01,2024,Shanghai,China,Asia,95,72,57.9,1.29,0.99,697.3,2024,1,1,Medium
+2024-01-01,2024,Dubai (Jebel Ali),UAE,MiddleEast,15,17,33.5,2.39,0.99,408.1,2024,1,1,Medium
+2024-01-01,2024,Los Angeles,USA,NorthAmerica,12,15,16.4,1.64,0.99,203.8,2024,1,1,Medium
+2024-01-01,2024,Qingdao,China,Asia,24,3,31.6,1.44,0.99,370.5,2024,1,1,Medium
+2024-01-01,2024,Hong Kong,China,Asia,18,10,15.3,1.09,0.832,190.0,2024,1,1,Low
+2024-01-01,2024,New York,USA,NorthAmerica,7,1,6.2,1.03,0.897,75.8,2024,1,1,Low
+2024-01-01,2024,Felixstowe,UK,Europe,4,4,5.5,1.84,0.99,54.2,2024,1,1,Medium
+2024-01-01,2024,Colombo,SriLanka,Asia,7,2,5.1,0.86,0.658,76.3,2024,1,1,Low
+2024-01-08,2024,Hong Kong,China,Asia,18,17,19.9,1.42,0.99,247.3,2024,1,2,Medium
+2024-01-08,2024,Colombo,SriLanka,Asia,7,3,6.1,1.02,0.825,72.2,2024,1,2,Low
+2024-01-08,2024,Ningbo,China,Asia,30,18,43.9,1.57,0.99,529.9,2024,1,2,Medium
+2024-01-08,2024,Long Beach,USA,NorthAmerica,11,2,11.1,1.24,0.967,126.2,2024,1,2,Low
+2024-01-08,2024,Singapore,Singapore,Asia,40,20,52.1,1.37,0.99,615.6,2024,1,2,Medium
+2024-01-08,2024,Dubai (Jebel Ali),UAE,MiddleEast,15,15,26.0,1.86,0.99,315.6,2024,1,2,Medium
+2024-01-08,2024,Antwerp,Belgium,Europe,12,6,24.5,2.23,0.99,305.6,2024,1,2,Medium
+2024-01-08,2024,Laem Chabang,Thailand,Asia,8,5,12.4,1.77,0.99,149.9,2024,1,2,Medium
+2024-01-08,2024,Tanjung Priok,Indonesia,Asia,7,4,9.2,1.54,0.99,102.0,2024,1,2,Medium
+2024-01-08,2024,Shenzhen,China,Asia,28,18,34.5,1.33,0.99,422.3,2024,1,2,Medium
+2024-01-08,2024,Felixstowe,UK,Europe,4,2,6.7,2.24,0.99,79.8,2024,1,2,Medium
+2024-01-08,2024,Rotterdam,Netherlands,Europe,14,3,26.4,2.2,0.99,322.0,2024,1,2,Medium
+2024-01-08,2024,Hamburg,Germany,Europe,9,24,24.7,3.08,0.99,293.6,2024,1,2,High
+2024-01-08,2024,New York,USA,NorthAmerica,7,7,11.0,1.83,0.99,130.5,2024,1,2,Medium
+2024-01-08,2024,Guangzhou,China,Asia,22,14,25.1,1.26,0.99,320.4,2024,1,2,Medium
+2024-01-08,2024,Busan,SouthKorea,Asia,22,14,17.2,0.96,0.732,200.3,2024,1,2,Low
+2024-01-08,2024,Los Angeles,USA,NorthAmerica,12,7,16.1,1.61,0.99,190.6,2024,1,2,Medium
+2024-01-08,2024,Tanjung Pelepas,Malaysia,Asia,10,7,14.9,1.65,0.99,183.8,2024,1,2,Medium
+2024-01-08,2024,Shanghai,China,Asia,95,32,55.0,1.22,0.987,659.0,2024,1,2,Low
+2024-01-08,2024,Qingdao,China,Asia,24,12,30.0,1.37,0.99,361.9,2024,1,2,Medium
+2024-01-15,2024,Tanjung Pelepas,Malaysia,Asia,10,5,15.0,1.67,0.99,185.9,2024,1,3,Medium
+2024-01-15,2024,Tanjung Priok,Indonesia,Asia,7,5,8.7,1.45,0.99,117.8,2024,1,3,Medium
+2024-01-15,2024,Felixstowe,UK,Europe,4,6,12.0,3.99,0.99,155.7,2024,1,3,High
+2024-01-15,2024,Singapore,Singapore,Asia,40,19,50.7,1.33,0.99,620.5,2024,1,3,Medium
+2024-01-15,2024,Busan,SouthKorea,Asia,22,17,26.4,1.47,0.99,317.3,2024,1,3,Medium
+2024-01-15,2024,Shanghai,China,Asia,95,53,94.7,2.1,0.99,1129.3,2024,1,3,Medium
+2024-01-15,2024,Laem Chabang,Thailand,Asia,8,2,7.8,1.11,0.894,88.1,2024,1,3,Low
+2024-01-15,2024,Dubai (Jebel Ali),UAE,MiddleEast,15,5,21.5,1.54,0.99,254.2,2024,1,3,Medium
+2024-01-15,2024,Shenzhen,China,Asia,28,24,38.2,1.47,0.99,463.1,2024,1,3,Medium
+2024-01-15,2024,Antwerp,Belgium,Europe,12,9,13.5,1.22,0.957,162.6,2024,1,3,Low
+2024-01-15,2024,Ningbo,China,Asia,30,21,40.4,1.44,0.99,472.8,2024,1,3,Medium
+2024-01-15,2024,Rotterdam,Netherlands,Europe,14,0,20.4,1.7,0.99,244.3,2024,1,3,Medium
+2024-01-15,2024,Long Beach,USA,NorthAmerica,11,8,16.7,1.85,0.99,204.9,2024,1,3,Medium
+2024-01-15,2024,Colombo,SriLanka,Asia,7,3,6.7,1.11,0.857,77.7,2024,1,3,Low
+2024-01-15,2024,Guangzhou,China,Asia,22,23,33.6,1.68,0.99,399.5,2024,1,3,Medium
+2024-01-15,2024,Los Angeles,USA,NorthAmerica,12,5,15.8,1.58,0.99,170.4,2024,1,3,Medium
+2024-01-15,2024,Hong Kong,China,Asia,18,8,17.0,1.22,0.938,192.5,2024,1,3,Low
+2024-01-15,2024,Qingdao,China,Asia,24,30,48.3,2.2,0.99,577.9,2024,1,3,Medium

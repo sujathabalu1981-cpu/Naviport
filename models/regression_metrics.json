@@ -1,0 +1,50 @@
+{
+  "task": "regression",
+  "target": "avg_wait_days",
+  "unit": "days",
+  "features": [
+    "port",
+    "country",
+    "region",
+    "throughput_teu_mn",
+    "vessels_at_anchor",
+    "port_utilization_pct",
+    "berth_delay_hrs",
+    "year_num",
+    "month",
+    "week_of_year"
+  ],
+  "best_model": "LinearRegression",
+  "validation_metrics": {
+    "r2": 0.9984198201881758,
+    "mae": 0.518523134411001,
+    "mse": 0.4303065869362048,
+    "rmse": 0.6559775811231698
+  },
+  "test_metrics": {
+    "r2": 0.9985760779311733,
+    "mae": 0.5108683139769709,
+    "mse": 0.41290851987182503,
+    "rmse": 0.6425795825201926
+  },
+  "candidate_evaluations": {
+    "LinearRegression": {
+      "val_r2": 0.9984198201881758,
+      "val_mae": 0.518523134411001,
+      "val_mse": 0.4303065869362048,
+      "val_rmse": 0.6559775811231698
+    },
+    "RandomForest": {
+      "val_r2": 0.9983940307024998,
+      "val_mae": 0.5182116858237528,
+      "val_mse": 0.4373294494465712,
+      "val_rmse": 0.6613088910989865
+    },
+    "GradientBoosting": {
+      "val_r2": 0.998212869451057,
+      "val_mae": 0.5478888138133874,
+      "val_mse": 0.4866623666311179,
+      "val_rmse": 0.6976119025870459
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "task": "classification",
+  "target": "congestion_class",
+  "classes": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "features": [
+    "port",
+    "country",
+    "region",
+    "throughput_teu_mn",
+    "vessels_at_anchor",
+    "port_utilization_pct",
+    "berth_delay_hrs",
+    "year_num",
+    "month",
+    "week_of_year"
+  ],
+  "best_model": "GradientBoosting",
+  "validation_metrics": {
+    "macro_f1": 0.9748112659698025,
+    "weighted_f1": 0.9653908346349473,
+    "accuracy": 0.9655172413793104,
+    "macro_auc": 0.9924582599065243
+  },
+  "test_metrics": {
+    "macro_f1": 0.9418048706488445,
+    "weighted_f1": 0.94609164175037,
+    "accuracy": 0.9461077844311377,
+    "macro_auc": 0.9849901020691217
+  },
+  "candidate_evaluations": {
+    "LogisticRegression": {
+      "val_macro_f1": 0.9622663962469519,
+      "val_weighted_f1": 0.9485634509806252,
+      "val_accuracy": 0.9492337164750958,
+      "val_macro_auc": 0.9863877300319751
+    },
+    "RandomForest": {
+      "val_macro_f1": 0.6362185697224061,
+      "val_weighted_f1": 0.9546464255874257,
+      "val_accuracy": 0.9559386973180076,
+      "val_macro_auc": 0.9912519229552945
+    },
+    "GradientBoosting": {
+      "val_macro_f1": 0.9748112659698025,
+      "val_weighted_f1": 0.9653908346349473,
+      "val_accuracy": 0.9655172413793104,
+      "val_macro_auc": 0.9924582599065243
+    }
+  }
+}

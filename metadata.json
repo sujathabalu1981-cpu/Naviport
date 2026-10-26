@@ -1,0 +1,6 @@
+{
+  "name": "NAVIPORT - Port Congestion & Vessel Waiting Time ML System",
+  "description": "Machine Learning-Based Port Congestion Classification and Vessel Waiting Time Prediction System for maritime shipping logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
